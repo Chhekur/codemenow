@@ -41,13 +41,13 @@ if (isset($_POST['signup'])) {
     $mail->isSMTP();                                     
     $mail->Host = 'smtp.gmail.com';  
     $mail->SMTPAuth = true;                              
-    $mail->Username = 'codemenow17@gmail.com';                
-    $mail->Password = 'codemenow@17';                
+    $mail->Username = 'your email';                
+    $mail->Password = 'your password';                
     $mail->SMTPSecure = 'ssl';
     $mail->Port = 465; 
-    $mail->setFrom('support@codemenow.com', 'Codemenow');
+    $mail->setFrom('your email', 'your name');
     $mail->addAddress($email);
-    $mail->addReplyTo('support@codemenow.com', 'Codemenow');
+    $mail->addReplyTo('your email', 'your name');
     $mail->isHTML(true);
     $mail->Subject = 'Welcome to Codemenow';
     $mail->Body    = "Hello {$name} Welcome.";
