@@ -1,4 +1,5 @@
-#codemenow is an online coding platform like Codecademy
+# codemenow is an online coding platform like Codecademy
+
 In order to use this project, You have to follow some steps.
 <ul>
   <li>
@@ -17,5 +18,6 @@ In order to use this project, You have to follow some steps.
     Tasks of all ide's ara available in ide/Tasks you can edit them according to you.
   </li>
 </ul>
-#Happy Coding
-#Enjoy Codemenow
+
+# Happy Coding
+# Enjoy Codemenow
