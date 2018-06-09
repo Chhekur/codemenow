@@ -1,11 +1,4 @@
 <?php include_once 'dbconnect.php';
-$notification="";
-$noti = explode(",", $_SESSION['notifications']);
-for($i = sizeof($noti); $i > sizeof($noti)-5; $i--){
-  if($noti[$i] !=""){
-    $notification .= "<li><a>".$noti[$i]."</a></li>";
-  }
-}
 ?>
 
 <style type="text/css">

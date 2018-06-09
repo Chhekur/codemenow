@@ -1,10 +1,12 @@
 <?php
 session_start();
 include_once '../dbconnect.php';
-$usr_id = $_SESSION['usr_id'];
-$result = mysqli_query($con, "SELECT * FROM users WHERE id='$usr_id'");
-if ($row = mysqli_fetch_array($result)) {
-  $_SESSION['perl'] = $row['perl'];
+if(isset($_SESSION['usr_id'])){
+  $usr_id = $_SESSION['usr_id'];
+  $result = mysqli_query($con, "SELECT * FROM users WHERE id='$usr_id'");
+  if ($row = mysqli_fetch_array($result)) {
+    $_SESSION['perl'] = $row['perl'];
+  }
 }
 ?>
 
