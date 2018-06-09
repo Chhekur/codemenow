@@ -12,6 +12,9 @@ In order to use this project, You have to follow some steps.
     Open <b>resetlink.php</b> and fill all the required details like <b>Your Email at line 27,31,33 and Your Password at line 28 and Your name at line 31,33</b>.
   </li>
   <li>
+    Open <b>register.php</b> and fill all the required details like <b>Your Email at line 44,48,50 and Your Password at line 45 and Your name at line 48,50</b>.
+  </li>
+  <li>
     All ide's are available in <b>ide</b> folder
   </li>
   <li>
