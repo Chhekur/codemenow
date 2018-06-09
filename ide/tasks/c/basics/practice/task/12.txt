@@ -1,0 +1,1 @@
+<li>Calculate cube of var1</li><li>Print the value of cube</li>

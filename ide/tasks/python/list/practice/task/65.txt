@@ -1,0 +1,1 @@
+<li>Make a list of any name</li><li>Put some integer values and some strings into it</li><li>Iterate your list using for loop</li>

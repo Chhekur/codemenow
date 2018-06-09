@@ -1,0 +1,3 @@
+
+salary = 50000
+# your code here

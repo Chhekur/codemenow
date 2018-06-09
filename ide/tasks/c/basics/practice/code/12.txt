@@ -1,0 +1,15 @@
+// How to calculate cube
+
+#include<stdio.h>
+int main(){
+	int var1 = 5;
+	int cube;
+
+	// calculate cube of var1
+
+	cube = 
+	
+	printf(); // print cube here
+	
+	return 0;
+}

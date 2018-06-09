@@ -1,0 +1,1 @@
+<li>Close secondmost if and use else to print 'Fail in entrance exam.'</li><li>Close another if and apply else to print 'Less percentage not eligible.'</li><li>Close outermost if and use else to print 'Age not satisfied.'</li>

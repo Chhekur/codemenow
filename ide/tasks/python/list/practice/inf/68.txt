@@ -1,0 +1,1 @@
+List, 11, you have to print my_list[2]+my_list[5] 

@@ -1,0 +1,31 @@
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'tab1')" id="defaultOpen">General</button>
+  <button class="tablinks" onclick="openCity(event, 'tab2')">Change Password</button>
+  <button class="tablinks" onclick="openCity(event, 'tab3')">Change Image</button>
+  <button class="tablinks" onclick="openCity(event, 'tab4')" id="defaultOpen">General</button>
+  <button class="tablinks" onclick="openCity(event, 'tab5')">Change Password</button>
+  <button class="tablinks" onclick="openCity(event, 'tab6')">Change Image</button>
+</div>
+
+<div id="tab1" class="tabcontent" style="background-color: white;">
+<p>Hello world1</p>
+</div>
+
+<div id="tab2" class="tabcontent" style="background-color: white;">
+  <p>Hello world2</p>
+</div>
+
+<div id="tab3" class="tabcontent" style="background-color: white;">
+  <p>Hello world3</p>
+</div>
+<div id="tab4" class="tabcontent" style="background-color: white;">
+<p>Hello world4</p>
+</div>
+
+<div id="tab5" class="tabcontent" style="background-color: white;">
+  <p>Hello world5</p>
+</div>
+
+<div id="tab6" class="tabcontent" style="background-color: white;">
+  <p>Hello world6</p>
+</div>

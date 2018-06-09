@@ -1,0 +1,16 @@
+// Implementing 'do while()'
+// Program to print first five even numbers
+
+#include<stdio.h>
+int main()
+{
+	                // Declare a varaible var=0
+	do 
+	{
+		             // 'printf()' statement here
+	                // increment
+		}
+	while();        // condition
+	return(0);
+	}
+	

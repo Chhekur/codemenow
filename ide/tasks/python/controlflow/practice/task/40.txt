@@ -1,0 +1,1 @@
+<li>Check <i>num</i> is divisible by 5 and 7 using if else statement</li><li>if num is divisible by 5 and 7 then print True otherwise print False</li>

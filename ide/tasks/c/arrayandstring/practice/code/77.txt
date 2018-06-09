@@ -1,0 +1,12 @@
+// how to print string
+
+#include<stdio.h>
+int main(){
+	char str[] = "you are programmer";
+	
+	// print string here
+
+	puts();
+	
+	return 0;
+}

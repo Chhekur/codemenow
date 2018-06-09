@@ -1,0 +1,1 @@
+<li>Now its on you.</li><li>create a variable <b>n</b> of int type.</li><li>Scan it from console through scanf.</li><li>Declare another variable <b>choice</b>. </li>

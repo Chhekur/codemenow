@@ -1,0 +1,1 @@
+<li>Create an instance of 'ShoppingCart' called 'my_cart'. Initialize it with any values you like, then use the add_item method to add an item to your cart.</li>

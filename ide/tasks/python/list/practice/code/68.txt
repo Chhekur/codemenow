@@ -1,0 +1,5 @@
+# How to access list elements using index
+
+my_list = [1,4,6,3,7,5]
+
+print 

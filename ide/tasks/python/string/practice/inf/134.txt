@@ -1,0 +1,1 @@
+String,13,  Replace print with print(len(my_string))

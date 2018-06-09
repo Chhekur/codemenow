@@ -1,0 +1,1 @@
+<li>Make a function with name 'iseven'</li><li>Take num as parameter</li><li>Check num is even or not using if else</li><li>if even then print 'even' otherwise print 'not'</li>

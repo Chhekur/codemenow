@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+	printf("Now manage checks.");
+	return(0);
+}

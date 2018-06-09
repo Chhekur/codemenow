@@ -1,0 +1,21 @@
+#include<stdio.h>
+int main()
+{
+	int n;
+	scanf("%d",&n);
+	int choice;
+	switch(choice)
+	{
+		case 1:
+		int s=n*n;
+		printf("%d",s);
+		break;
+		//start second case here!
+
+
+
+
+
+	}
+	return(0);
+}

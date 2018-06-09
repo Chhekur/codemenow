@@ -1,0 +1,1 @@
+<li>if the percentage is less than 33 print 'Fail'.</li><li>elseif less than 50 print 'Pass with D grade..'</li><li>elseif less than 60 print 'Pass with C grade..'</li><li>elseif less than 75 print 'Pass with B grade..'</li><li>else print 'Pass with A grade..'</li>

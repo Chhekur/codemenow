@@ -1,0 +1,1 @@
+Log value function 'log()', 3.17, Make sure to pass "num1" as parameter.<br>Make sure to print your result.<br>Also , your 'printf()' statement contains '%f' instead of '%d' b'coz it's a float value.<br>Click Check and Continue.

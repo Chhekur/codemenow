@@ -1,0 +1,6 @@
+# How to add element in list
+
+my_list = [2,9,4,6]
+
+my_list.append(5)
+my_list.append(7)

@@ -1,0 +1,6 @@
+# How to iterate list from specified index
+
+my_list = [2,9,4,6,3,8,7]
+
+for i in my_list[2::]:
+	print i

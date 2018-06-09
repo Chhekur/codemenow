@@ -1,0 +1,1 @@
+Basics, 'My name is Rocky\nMy age is 16', Replace ___ with %s or %d or %f (%s for string, %d for int, %f for float).

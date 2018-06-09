@@ -1,0 +1,1 @@
+Dictionary,'[('alex', 50), ('ada', 70), ('wong', 80), ('leon', 95)]', Write down <i>print student.items()</i>

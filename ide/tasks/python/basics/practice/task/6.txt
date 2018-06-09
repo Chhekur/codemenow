@@ -1,0 +1,1 @@
+<li>Replace <i>raw_input statement</i> with <b>int(raw_input(''Enter Value''))</b></li><li>Enter 4 as input</li>

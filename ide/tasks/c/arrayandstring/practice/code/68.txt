@@ -1,0 +1,27 @@
+// let's manipulate the values of an array
+
+#include<stdio.h>
+int main(){
+	int arr[7] = {1,2,3,4,5,6,7};
+
+	int sum, diff, div, product;
+	// assign sum equals to sum of arr[2] and arr[5]
+
+	sum = 
+	// assign diff equals to differance of arr[2] and arr[5]
+
+	diff = 
+	// assign product equals to product of arr[2] and arr[5]
+
+	product = 
+	// assign div equals to division of arr[5] and arr[2]
+
+	div = 
+
+	printf("%d", sum);
+	printf("%d", diff);
+	printf("%d", product);
+	printf("%d", div);
+	
+	return 0;
+}

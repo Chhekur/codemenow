@@ -1,0 +1,1 @@
+Armstrong number , 'Yes' , Make sure arm_num=0.<br>Copy value of "num1" to "num2".<br>Make sure your input is 153.<br>Set condition in "if()" to "arm_num==num2".<br>Click Check and Continue.

@@ -1,0 +1,1 @@
+Implementing do while(), 02468, Declare a varaible var = 0<br>Print inside "do" using "printf("%d",var)"<br>Ensure to increment i.e. "var=var+2"<br>Manage condition in "while()" with "var<=8"

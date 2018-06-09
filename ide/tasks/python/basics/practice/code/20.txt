@@ -1,0 +1,6 @@
+# How to concatinate two or more messages
+
+str1 = "Hello"
+str2 = " Friends"
+
+print 

@@ -1,0 +1,1 @@
+<li>Declare a varaible var=0.</li><li>Print value of 'var'.</li><li>Inrease value of 'var'</li><li>Manage condition in 'while()'</li><li>Click Check and Continue.</li>

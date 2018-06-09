@@ -1,0 +1,16 @@
+// Introduction to 'for()' 
+// Printing first five natural numbres with 'for()' loop
+
+#include<stdio.h>
+int main()
+{
+	int i;
+	for(i=1;i<=5;i++)      // First part is 'initialisation'(optional).
+	                       //Second part is 'condition'(mandatory).
+	                       //Third part is 'increment'(optional).
+	{
+		printf("%d",i);
+		printf("\n");
+		}
+	return(0);
+	}

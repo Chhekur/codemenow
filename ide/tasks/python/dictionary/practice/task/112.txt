@@ -1,0 +1,1 @@
+<li>Try to understand<br>Note:<br>values() method is use to print all the values of dictionary</li><li>Click check and continue</li>

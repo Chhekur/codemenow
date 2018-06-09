@@ -1,0 +1,1 @@
+Inheritance Syntax<br><br>In Python, inheritance works like this:<br><br>class DerivedClass(BaseClass):<br>  # code goes here<br>where DerivedClass is the new class you're making and BaseClass is the class from which that new class inherits.

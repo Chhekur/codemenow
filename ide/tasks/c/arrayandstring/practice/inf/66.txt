@@ -1,0 +1,1 @@
+Array & String, 101020153, you have to type every given value in user input box and press enter after every value

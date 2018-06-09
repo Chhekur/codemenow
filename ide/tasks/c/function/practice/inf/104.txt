@@ -1,0 +1,1 @@
+userDefined function 'myFactorial()', 120, Make sure your input is correct i.e. 5.<br>Ensure while condition is num>1.<br>Set fact=fact*num.<br>Set num=num-1.<br>Make sure to print your result.<br>Click Check and Continue.

@@ -1,0 +1,1 @@
+List, 'cow\ndog\cat', Write my_list[::-1] in for

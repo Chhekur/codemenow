@@ -1,0 +1,3 @@
+# How to make function
+def my_fun():
+	print("Hello Friends")

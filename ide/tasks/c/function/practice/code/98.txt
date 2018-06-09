@@ -1,0 +1,14 @@
+// Intro to Built-in Functions
+// Alphabet function 'isAlpha()'
+
+#include<stdio.h>
+#include<ctype.h>
+
+int main()
+{
+	char char1 = 'P';
+	int result;            
+	result = isAlpha(_______);		 // Make sure to pass 'char1' as parameter
+	printf(______);                // Print u'r result here
+	return(0);
+	}

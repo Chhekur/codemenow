@@ -1,0 +1,1 @@
+<li>Delete ''hello'' from list</li><li>Print <i>my_list</i></li>

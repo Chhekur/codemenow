@@ -1,0 +1,5 @@
+# How to directly print a list
+
+my_list = [1,4,6,3,7,5]
+
+print my_list

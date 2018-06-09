@@ -1,0 +1,5 @@
+# How to print string in reverse
+
+my_string = "Hello Codemenow"
+
+print(my_string[::-1])

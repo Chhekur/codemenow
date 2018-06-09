@@ -1,0 +1,1 @@
+Array & String, 'codemenow is best for me', you have to assign string to "codemenow is best for me"

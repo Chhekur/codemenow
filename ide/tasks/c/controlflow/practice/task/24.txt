@@ -1,0 +1,1 @@
+<li>Now create a variable <b>total</b> and assign it to sum of all three variables.</li><li>Create another variable <b>per</b> and in it calculate percentage.</li><li><b>per</b> is equals to <b>total</b>/(divide)3.</li>

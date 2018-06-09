@@ -1,0 +1,1 @@
+<li>Make a function with any name</li><li>Take num as a variable</li><li>Divide num by 2</li><li>Then print it</li><li>Call the function and take 10 as argument</li>

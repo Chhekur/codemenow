@@ -1,0 +1,7 @@
+physics = 60
+chemistry = 71
+maths = 85
+total = physics+chemistry+maths
+per = total/3
+
+# Print the per and submit to continue!

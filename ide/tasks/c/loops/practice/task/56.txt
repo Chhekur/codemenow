@@ -1,0 +1,1 @@
+<li>Declare all required variables.</li><li>Make sure u'r input is 153.</li><li>Use suitable conditions in 'if()' statement.</li><li>Click Check and Continue.</li>

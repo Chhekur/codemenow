@@ -1,0 +1,6 @@
+# how to declare variables
+
+a = 15
+b = 16.4
+c = "Hello"
+d = True # this is boolean type variable

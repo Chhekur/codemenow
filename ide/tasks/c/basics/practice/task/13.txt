@@ -1,0 +1,1 @@
+<li>Divide var by 4</li><li>Add 50 to var</li><li>Multiply var by 3</li><li>Calculate and print the result</li>

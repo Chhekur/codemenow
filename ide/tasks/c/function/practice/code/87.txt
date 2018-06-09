@@ -1,0 +1,12 @@
+// Intro to Built-in Functions
+// ceiling function 'ceil()'
+
+#include<stdio.h>
+int main()
+{
+	float num1 = 24.001; 
+	int num2;                 
+	num2 = ceil(___);		 // Make sure to pass 'num1' as parameter
+	printf(______);       // Print u'r result here
+	return(0);
+	}

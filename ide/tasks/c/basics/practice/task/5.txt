@@ -1,0 +1,1 @@
+<li>declare a variable of type 'int' and set it equal to 5<li> declare a variable of type 'float' and set it equal to 10.6</li><li>print both the values</li>

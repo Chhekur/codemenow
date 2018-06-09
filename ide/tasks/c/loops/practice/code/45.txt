@@ -1,0 +1,22 @@
+// Program to reverse a number
+
+#include<stdio.h>
+int main()
+{
+	int num;
+	int rem;
+	int rev_num=0;
+	printf("Enter number : ");
+	scanf("%d",&a);          // Ensure u'r input is 2408
+	
+	while()                  // Fill in suitable condition
+	{
+		            
+		            
+		                      // Make sure to bind u'r number
+		     
+		            
+		}
+	printf();                // Print 'rev_num'	here
+	return(0); 
+	}	     

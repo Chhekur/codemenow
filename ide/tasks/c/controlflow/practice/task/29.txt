@@ -1,0 +1,1 @@
+<li>Its upto you.</li><li>Create some variables;viz: <b>age , hi_per , en_marks , int_marks</b>(int type).</li><li>Use scanf for <b>age</b>.</li><li>Your input must be 24.</li><li>Other we will see later.</li>

@@ -1,0 +1,1 @@
+<li>Make a variable and assign it any string</li><li>Print you string variable</li>

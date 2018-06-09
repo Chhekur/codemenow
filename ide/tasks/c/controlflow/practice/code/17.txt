@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+	if(___)
+	{
+	printf("I am true .");
+	}
+	else
+	{
+	printf("I am false.");
+	}
+
+
+
+	return(0);
+}

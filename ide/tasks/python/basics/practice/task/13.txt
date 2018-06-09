@@ -1,0 +1,1 @@
+<li>Assign var1 equal to 10 </li><li>Assign var2 equal to 5 </li><li>Assign product equal to the product of var1 and var2</li><li>Print variable product</li>

@@ -1,0 +1,1 @@
+Array & String, 'codemenow', you have to type <b>codemenow</b> in user input box

@@ -1,0 +1,1 @@
+Power value function 'pow()', 8, Make sure to pass "num1" and "num2" as parameters.<br>Make sure to print your result.<br>Also , your 'printf()' statement contains '%f' instead of '%d' b'coz it's a float value.<br>Click Check and Continue.

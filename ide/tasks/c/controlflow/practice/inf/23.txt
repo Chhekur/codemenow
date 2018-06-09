@@ -1,0 +1,1 @@
+Multiple If,'',Check your scanf function.

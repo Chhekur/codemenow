@@ -1,0 +1,1 @@
+UpperCase function 'toUpper()', 'P', Make sure to pass "char1" as parameter.<br>Make sure to print your result.<br>Also , your 'printf()' statement contains '%c' instead of '%d' b'coz it's a charcter value.<br>Click Check and Continue.

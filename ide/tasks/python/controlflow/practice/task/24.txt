@@ -1,0 +1,1 @@
+<li>Create another variable <b> annual_salary and assign it  to salary*12</b>.</li><li>Print the <i>annual_salary</i> by print statement.</li>

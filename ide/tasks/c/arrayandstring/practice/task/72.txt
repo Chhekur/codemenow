@@ -1,0 +1,1 @@
+<li>creat an array of<b> 1 to 10 </b>of type int</li><li>print array in reverse</li><li>click check and continue</li>

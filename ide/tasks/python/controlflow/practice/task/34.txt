@@ -1,0 +1,1 @@
+<li>Create some variables viz: <b>age , hi_per , en_marks , int_marks</b></li><li>input <b>age</b> from console using <i>raw_input()</i>.</li><li>Your input must be 24.</li><li>Other we will see later.</li>

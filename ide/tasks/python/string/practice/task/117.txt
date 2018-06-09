@@ -1,0 +1,1 @@
+<li>Assign 'Hello Friends' to my_string</li>

@@ -1,0 +1,1 @@
+Printing Series {1,10,100,1000} using 'for()', 1,10,100,1000, Set condition in 'for()' to 'i=1;i<=1000;i=1*10'.<br>Make sure to print your result.<br>Click Check and Continue.

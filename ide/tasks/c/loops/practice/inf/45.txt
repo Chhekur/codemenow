@@ -1,0 +1,1 @@
+Reversing a number, 8042, Make sure your input is 2408<br>Condition in "while()" should be "num>0"<br> Set "rem=num%10" on line 13<br>Make sure to bind your number i.e. Set "rev_num=rev_num*10+rem" on line 14<br>Set num=num/10<br>Print "rev_num" on line 19.

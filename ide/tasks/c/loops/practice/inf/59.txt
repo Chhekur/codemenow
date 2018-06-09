@@ -1,0 +1,1 @@
+Printing pattern using 'for()', '1\n101\n10101\n1010101\n101010101', Set condition in outer "for()" to "i=1;i<=9;i=i+2".<br>Set condition in inner "for()" to "j=1;j<=i;j++".<br>"printf()" should have condition like "printf("%d",j%2)".<br>Make sure to print your result.<br>Click Check and Continue.

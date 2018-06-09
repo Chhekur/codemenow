@@ -1,0 +1,1 @@
+<li>Print all the items of dictionary student using <i>items()</i> Method</li>

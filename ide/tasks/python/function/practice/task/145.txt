@@ -1,0 +1,1 @@
+<li>Make a function with name 'sort'</li><li>Take 'list' as parameter</li><li>Sort the list then return it</li>

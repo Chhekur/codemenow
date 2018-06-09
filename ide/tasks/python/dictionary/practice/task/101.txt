@@ -1,0 +1,1 @@
+<li>Try to understand<br>Syntax:<br><dictionar name> = {<br>'key1': value1,<br>'key2':value2<br>....}</li><li>Click check and continue</li>

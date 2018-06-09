@@ -1,0 +1,1 @@
+Array & String, 'true', you have to find value in array

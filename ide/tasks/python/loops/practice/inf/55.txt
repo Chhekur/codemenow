@@ -1,0 +1,1 @@
+Loops, '3\n6\n7\n9', You have to manage or in if condition like that <i>if i%7==0 or i%3==0:</i>

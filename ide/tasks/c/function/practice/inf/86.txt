@@ -1,0 +1,1 @@
+Floor value function 'floor()', 24, Make sure to pass "num1" as parameter<br>Click Check and Continue.

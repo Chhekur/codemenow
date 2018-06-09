@@ -1,0 +1,1 @@
+<li>Try to understand<br>Note:<br>items() method is use to print all the items of dictionary</li><li>Click check and continue</li>

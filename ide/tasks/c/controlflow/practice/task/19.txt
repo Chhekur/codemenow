@@ -1,0 +1,1 @@
+<li>Create another variable <b> annual_salary (float type)and assign it  to salary*12</b>.</li><li>Print the <b>annual_salary</b> by printf function.</li><li>Create a variable <b>tax</b> of float type.</li>

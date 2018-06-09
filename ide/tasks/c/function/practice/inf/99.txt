@@ -1,0 +1,1 @@
+Alpha-Numeric function 'isAlpha()', 1, Make sure to pass "char1" as parameter.<br>Make sure to print your result.<br>Also , your 'printf()' statement contains '%d'.<br>Click Check and Continue.

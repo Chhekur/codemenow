@@ -1,0 +1,1 @@
+<li>Make a dictionary of key one, two, three</li><li>Set the value of key one to 1</li><li>Set the value of key two to 2</li><li>Set the value of key three to 3</li><li>Print your dictionary</li>

@@ -1,0 +1,4 @@
+# How to make string
+
+my_string = "Hello Codemenow"
+print (my_string)

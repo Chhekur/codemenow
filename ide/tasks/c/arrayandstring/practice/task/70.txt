@@ -1,0 +1,1 @@
+<li>define 2 row and 2 column<br><b>Syntax<br>datatype arrayname[row][column];</b></li><li>assign value 5 (line 13)</li>

@@ -1,0 +1,1 @@
+<li>Make a list of square values from 1 to 10 if divisible by 2 using list comprehension</li><li>Print your list</li>

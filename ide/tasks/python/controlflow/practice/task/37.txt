@@ -1,0 +1,1 @@
+<li>Make if statement If int_marks is greater than 85 print 'Eligible'.</li><li>else print 'Out in interview.'</li>

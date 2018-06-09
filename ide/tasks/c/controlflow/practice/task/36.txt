@@ -1,0 +1,1 @@
+<li>Below the code type <b>switch(choice)</b>.</li><li>Start body of switch(i.e. braces).</li>

@@ -1,0 +1,1 @@
+<li>Make a function with any name</li><li>Print 'Hello Friends' inside the function</li>

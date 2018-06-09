@@ -1,0 +1,5 @@
+# List comprehension
+
+my_list = range(50)
+
+print my_list

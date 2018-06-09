@@ -1,0 +1,1 @@
+<li>Make sure u'r input is as directed.</li><li>Use suitable condition for while().</li><li>Make suitable calculations within while().</li><li>Make sure to print u'r result.</li><li>Click Check and Continue.</li>

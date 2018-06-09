@@ -1,0 +1,1 @@
+<li>creat an array of <b>10,5,98,45,68,72,6</b></li><li>assign find any value that present in array</li><li>click check and continue</li>

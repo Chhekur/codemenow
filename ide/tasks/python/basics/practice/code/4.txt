@@ -1,0 +1,9 @@
+# How to print variables
+
+a = 10
+b = 60.5
+c = "codemenow"
+
+print 
+print 
+print 

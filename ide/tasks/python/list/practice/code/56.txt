@@ -1,0 +1,6 @@
+# How to make list
+
+my_list = [1,2,"hello","codemenow",15.6,9]
+
+for i in my_list:
+	print i

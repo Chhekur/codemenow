@@ -1,0 +1,14 @@
+// Intro to User-Defined Functions
+
+#include<stdio.h>
+
+void myFunction()                 // User-Defined function's structure
+{
+	printf(______);               // Ensure u'r input is Harry
+	}
+	
+int main()
+{	
+	myFunction();                // calling above-defined function
+	return(0);         
+	}

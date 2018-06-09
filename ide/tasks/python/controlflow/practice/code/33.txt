@@ -1,0 +1,10 @@
+i = 1
+
+if i>0:
+	print "Screen In."
+	if i==1:
+		print "Qualified."
+	else:
+		print "Conference out.."	
+else:
+	print "Screen Out.."

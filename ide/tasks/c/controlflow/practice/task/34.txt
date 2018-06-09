@@ -1,0 +1,1 @@
+<li>Time to switch   and case.</li><li>See the code and try to guess output.</li><li>Submit the code and continue.</li><li>Don't be panic about break; it is used to exit from switch after executing a case.</li><li>Another use of break we will discuss in loop section.</li>

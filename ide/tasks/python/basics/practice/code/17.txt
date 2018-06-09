@@ -1,0 +1,5 @@
+# let's play with variables
+
+var = 2
+
+print 

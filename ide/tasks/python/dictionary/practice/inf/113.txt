@@ -1,0 +1,1 @@
+Dictionary,'[50, 70, 80, 95]', write print student.values()

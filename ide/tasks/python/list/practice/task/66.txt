@@ -1,0 +1,1 @@
+<li>Try to understand</li><br>Note:<br>We can access the elements of list using index like array in other language like c,c++,java etc.<li>Click check and continue</li>

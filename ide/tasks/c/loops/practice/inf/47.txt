@@ -1,0 +1,1 @@
+Numeric patterns, '1\n12\n123\n1234\n12345\n', Declare variables "i" and "j".<br>Set "i=1".<br>Set condition in "while()" to "i<=5".<br>Set "j=1".<br>Set condition in "while()" to "j<=i".<br>Use "printf("%d",j)" to print values.<br>Use "printf("\n")" for a new line on line 17.

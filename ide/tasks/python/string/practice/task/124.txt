@@ -1,0 +1,1 @@
+<li>Print 'Codemenow' from <i>my_string</i> using index</li>

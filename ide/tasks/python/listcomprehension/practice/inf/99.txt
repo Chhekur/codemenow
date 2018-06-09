@@ -1,0 +1,1 @@
+List Comprehension,'[10, 11, 12, 13, 14, 15, 16, 17, 18, 19]', write my_list = range(10,20)

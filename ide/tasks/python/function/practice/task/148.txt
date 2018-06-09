@@ -1,0 +1,1 @@
+<li>Make a function with name 'maxvalue'</li><li>Take two arguments 'num1' and 'num2'</li><li>Return the greater value</li>

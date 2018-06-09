@@ -1,0 +1,32 @@
+//  Program to check whether a number is Perfect or not
+
+#include<stdio.h>
+int main()
+{
+	                            // Declare variables as per u'r requirements 
+	
+	
+	
+	printf("Enter any no: ");
+	scanf("%d",&num);
+	
+	while()                     // Fill in suitable condition
+	{
+		                         // Use suitable manipulations
+
+
+
+		}
+
+	if()                        // Complete If_Else statements
+	{                            
+		printf();                // Print u'r result here
+		
+		}
+	else
+	{
+		printf();
+		
+		}
+	return(0);
+	}

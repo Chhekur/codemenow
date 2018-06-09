@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+	float salary;
+	salary=30000;
+	//create variable and print its value.
+
+
+
+
+
+
+
+
+	return(0);
+	
+}

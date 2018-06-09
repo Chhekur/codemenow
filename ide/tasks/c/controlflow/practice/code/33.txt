@@ -1,0 +1,44 @@
+#include<stdio.h>
+int main()
+{printf("eneter age ");
+	scanf("%d",&age);
+	if((age>=18)&&(age<=25))
+	{
+		hi_per=70;
+		if(hi_per>=60)
+		{
+			en_marks=80;
+			if(en_marks>=75)
+			{	int int_marks=90;
+				if(int_marks>=85)
+				{printf("Congrats! You are eligible.")}
+				else
+				{printf("Out in interview.")}
+				//your code here!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+}
+}
+return(0);
+}
+

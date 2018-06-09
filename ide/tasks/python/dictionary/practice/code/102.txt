@@ -1,0 +1,10 @@
+# How to make Dictionary
+
+student = {
+	'alex' : 
+	'ada'  : 
+	'wong' : 
+	'leon' : 
+	}
+
+print student

@@ -1,0 +1,5 @@
+# How to print list in reverse
+
+list = [1,"printer","random",3,"scan",5]
+
+print list[::-1]

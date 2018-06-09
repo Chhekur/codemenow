@@ -1,0 +1,1 @@
+<li>Replace the <i>print statement</i> with <i>print str1+str2 </i></li><br> just add the two or more string, it called concatination.

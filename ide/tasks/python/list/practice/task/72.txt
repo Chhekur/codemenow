@@ -1,0 +1,1 @@
+<li>Try to understand</li><br>Here -1 is use to print list in reverse, here we use 1 as input and use - (minus) to print in reverse<li>Click check and continue</li>

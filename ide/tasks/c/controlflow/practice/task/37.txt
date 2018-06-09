@@ -1,0 +1,1 @@
+<li>Type case 1 ending with':' .</li><li>In first case find the square of the specified number(i.e.s=n*n).</li><li>print the square of number.</li><li>Don't forget to place break; after the code.</li>

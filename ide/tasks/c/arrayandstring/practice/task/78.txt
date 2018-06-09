@@ -1,0 +1,1 @@
+<li>define the size of <b>string 10</b></li><li>complete the 'gets()' function (just write down str in between ())</li><li>complete the 'puts()' function (just write down str in between ())</li><li>write down <b>codemenow</b> in user input box</li><li>click check and continue</li>

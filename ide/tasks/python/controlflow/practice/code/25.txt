@@ -1,0 +1,4 @@
+
+salary = 50000
+annual_salary = salary*12
+print annual_salary

@@ -1,0 +1,1 @@
+<li>Enter number...ensure u'r input is 2408.</li><li>Fill in 'while()' with suitable condition.</li><li>Get started with calculatons.</li><li>Make sure to bind u'r number within 'while()'.</li><li>Print reversed number.</li>

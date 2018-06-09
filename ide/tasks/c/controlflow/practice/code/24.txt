@@ -1,0 +1,21 @@
+#include<stdio.h>
+int main()
+{
+	float physics,chemistry,maths;
+	physics=60;
+	chemistry=71;
+	maths=85;
+	//calculate total and percentage here!
+
+
+
+
+
+
+
+
+	return(0);
+}
+
+
+

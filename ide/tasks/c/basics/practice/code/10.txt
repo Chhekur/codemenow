@@ -1,0 +1,14 @@
+// let's play with variables
+
+#include<stdio.h>
+int main(){
+	int var1 = 17;
+	int var2 = 3;
+	int mod;
+
+	// print mod of var1 and var2
+	
+	printf(); // print mod here
+	
+	return 0;
+}

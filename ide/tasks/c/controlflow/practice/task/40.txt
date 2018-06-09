@@ -1,0 +1,1 @@
+<li>Make a default case. </li><li>Complete default by printing ''No such chice found''.</li><li>Remember that you have to print cube of the number.</li><li>Run your code.</li>

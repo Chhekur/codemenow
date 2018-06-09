@@ -1,0 +1,1 @@
+<li>Create a class named 'Equilateral' that inherits from 'Triangle'.<br>Inside 'Equilateral', create a member variable named 'angle' and set it equal to 60.<br>Create an __init__() function with only the parameter self, and 'set self.angle1', 'self.angle2', and 'self.angle3' equal to self.angle (since an equilateral triangle's angles will always be 60˚).</li>

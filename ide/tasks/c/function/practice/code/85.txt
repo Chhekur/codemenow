@@ -1,0 +1,12 @@
+// Intro to Built-in Functions
+// Absolute value function 'abs()'
+
+#include<stdio.h>
+int main()
+{
+	int num1 = -24; 
+	int num2;
+	num2 = abs(num1);		 // calling 'abs()' fuction for absolute value
+	printf("%d",num2);
+	return(0);
+	}

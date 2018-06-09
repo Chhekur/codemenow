@@ -1,0 +1,1 @@
+List, '1\n5\n6\n9\n7\n2', You have to make for like that <i>for i in my_list:<br>print i</i>

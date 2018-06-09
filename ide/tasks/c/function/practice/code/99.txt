@@ -1,0 +1,14 @@
+// Intro to Built-in Functions
+// Alpha-Numeric  function 'isAlnum()'
+
+#include<stdio.h>
+#include<ctype.h>
+
+int main()
+{
+	char char1 = '23';
+	int result;            
+	result = isAlnum(_______);		 // Make sure to pass 'char1' as parameter
+	printf(______);                // Print u'r result here
+	return(0);
+	}

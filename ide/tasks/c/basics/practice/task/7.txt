@@ -1,0 +1,1 @@
+<li>complete these 'scanf()' statements to take input</li><li>assign var1 equal to 10 </li><li>assign var2 equal to 5 </li><li>assign diff equal to the difference of var1 and var2</li><li>complete 'printf()' statements</li>

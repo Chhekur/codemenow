@@ -1,0 +1,1 @@
+Array & String, 'you are programmer', you have to write "you are programmer" in ()

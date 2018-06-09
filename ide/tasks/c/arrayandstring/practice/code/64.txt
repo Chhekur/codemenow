@@ -1,0 +1,20 @@
+// assign array through index
+
+#include<stdio.h>
+int main(){
+	int array[5];
+	// don't forget to write semicolon(;) at the end of statement
+	array[0] = 
+	array[1] = 
+	array[2] = 
+	array[3] = 
+	array[4] = 
+
+	printf("%d", array[0]);
+	printf("%d", array[1]);
+	printf("%d", array[2]);
+	printf("%d", array[3]);
+	printf("%d", array[4]);
+
+	return 0;
+}

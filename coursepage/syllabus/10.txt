@@ -1,0 +1,97 @@
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'tab1')" id="defaultOpen">Basics</button>
+  <button class="tablinks" onclick="openCity(event, 'tab2')">Control Flow</button>
+  <button class="tablinks" onclick="openCity(event, 'tab3')">Loops</button>
+  <button class="tablinks" onclick="openCity(event, 'tab4')" id="defaultOpen">Array & String</button>
+  <button class="tablinks" onclick="openCity(event, 'tab5')">Pointers</button>
+  <button class="tablinks" onclick="openCity(event, 'tab6')">Functions</button>
+</div>
+
+<div id="tab1" class="tabcontent" style="background-color: white;">
+<p>Every full C program begins inside a function called "main". A function is simply a collection of commands that do "something". The main function is always called when the program first executes. From main, we can call other functions, whether they be written by us or by others or use built-in language features. To access the standard functions that comes with your compiler, you need to include a header with the #include directive. What this does is effectively take everything in the header and paste it into your program</p>
+<h5>In it you wll learn about.</h5><br>
+<h5>Using Variables</h5>
+<p>So far you should be able to write a simple program to display information typed in by you, the programmer and to describe your program with comments. That's great, but what about interacting with your user? Fortunately, it is also possible for your program to accept input. 
+</p>
+<h5>Reading input</h5>
+<p>Using variables in C for input or output can be a bit of a hassle at first, but bear with it and it will make sense. We'll be using the scanf function to read in a value and then printf to read it back out. Let's look at the program and then pick apart exactly what's going on. You can even compile this and run it if it helps you follow along. 
+</p>
+</div>
+
+<div id="tab2" class="tabcontent" style="background-color: white;">
+  <p>In computer science, control flow (or flow of control) is the order in which individual statements, instructions or function calls of an imperative program are executed or evaluated. The emphasis on explicit control flow distinguishes an imperative programming language from a declarative programming language.
+
+Within an imperative programming language, a control flow statement is a statement which execution results in a choice being made as to which of two or more paths to follow. For non-strict functional languages, functions and language constructs exist to achieve the same result, but they are usually not termed control flow statements.
+
+A set of statements is in turn generally structured as a block, which in addition to grouping, also defines a lexical scope.
+
+Interrupts and signals are low-level mechanisms that can alter the flow of control in a way similar to a subroutine, but usually occur as a response to some external stimulus or event (that can occur asynchronously), rather than execution of an in-line control flow statement.</p>
+<h5>In it you will learn about.</h5><br>
+<ol>
+<li><h5>if</h5></li>
+<li><h5>else</h5></li>
+<li><h5>else if</h5></li>
+<li><h5>nested if</h5></li>
+</ol>
+</div>
+
+<div id="tab3" class="tabcontent" style="background-color: white;">
+  <p>
+Programming languages provide various control structures that allow for more complicated execution paths.
+
+A loop statement allows us to execute a statement or group of statements multiple times.</p>
+<h5>In it you will learn about.</h5><br>
+<h5>While loop</h5><p>Repeats a statement or group of statements while a given condition is true. It tests the condition before executing the loop body.</p>
+<h5>For loop</h5><p>Executes a sequence of statements multiple times and abbreviates the code that manages the loop variable.</p>
+<h5>do while loop</h5><p>It is more like a while statement, except that it tests the condition at the end of the loop body.</p>
+
+</div>
+<div id="tab4" class="tabcontent" style="background-color: white;">
+<h5>Array</h5>
+<p>Arrays a kind of data structure that can store a fixed-size sequential collection of elements of the same type. An array is used to store a collection of data, but it is often more useful to think of an array as a collection of variables of the same type.
+
+Instead of declaring individual variables, such as number0, number1, ..., and number99, you declare one array variable such as numbers and use numbers[0], numbers[1], and ..., numbers[99] to represent individual variables. A specific element in an array is accessed by an index.</p>
+<br>
+<h5>String</h5><p>Strings are actually one-dimensional array of characters terminated by a null character '\0'. Thus a null-terminated string contains the characters that comprise the string followed by a null.
+
+The following declaration and initialization create a string consisting of the word "Hello". To hold the null character at the end of the array, the size of the character array containing the string is one more than the number of characters in the word "Hello."</p>
+</div>
+
+<div id="tab5" class="tabcontent" style="background-color: white;">
+<h5>Pointers</h5>
+  <p>Pointers in C are easy and fun to learn. Some C programming tasks are performed more easily with pointers, and other tasks, such as dynamic memory allocation, cannot be performed without using pointers. So it becomes necessary to learn pointers to become a perfect C programmer. Let's start learning them in simple and easy steps.</p>
+  <h5>How to Use Pointers?</h5>
+<p>There are a few important operations, which we will do with the help of pointers very frequently. (a) We define a pointer variable, (b) assign the address of a variable to a pointer and (c) finally access the value at the address available in the pointer variable. This is done by using unary operator * that returns the value of the variable located at the address specified by its operand.</p>
+</div>
+
+<div id="tab6" class="tabcontent" style="background-color: white;">
+<h5>Functions</h5>
+  <p>A function is a group of statements that together perform a task. Every C program has at least one function, which is main(), and all the most trivial programs can define additional functions.
+
+You can divide up your code into separate functions. How you divide up your code among different functions is up to you, but logically the division is such that each function performs a specific task.
+
+A function declaration tells the compiler about a function's name, return type, and parameters. A function definition provides the actual body of the function.
+
+The C standard library provides numerous built-in functions that your program can call. For example, strcat() to concatenate two strings, memcpy() to copy one memory location to another location, and many more functions.</p>
+<h5>In it you will learn about</h5><br>
+<h5>Function Declarations</h5><p>
+A function declaration tells the compiler about a function name and how to call the function. The actual body of the function can be defined separately.</p>
+<h5>Calling a Function</h5><p>
+While creating a C function, you give a definition of what the function has to do. To use a function, you will have to call that function to perform the defined task.
+
+When a program calls a function, the program control is transferred to the called function. A called function performs a defined task and when its return statement is executed or when its function-ending closing brace is reached, it returns the program control back to the main program.</p>
+<h5>Function Arguments</h5>
+<p>If a function is to use arguments, it must declare variables that accept the values of the arguments. These variables are called the formal parameters of the function.
+
+Formal parameters behave like other local variables inside the function and are created upon entry into the function and destroyed upon exit.</p>
+</div>
+@
+<button class="accordion" style="width: 95%;">Syllabus</button>
+<div class="panel">
+  <p style="text-align: left;">1.Basics</p>
+  <p style="text-align: left;">2.Control Flow</p>
+  <p style="text-align: left;">3.Loops</p>
+  <p style="text-align: left;">4.Array & Strings</p>
+  <p style="text-align: left;">7.Pointers</p>
+  <p style="text-align: left;">8.Functions</p>
+</div>

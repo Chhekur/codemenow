@@ -1,0 +1,15 @@
+// how to declare an array
+
+#include<stdio.h>
+int main(){
+	// partial initialisation to array
+	int array[] = {}; // define size of array 5 and write 1 to 5 values in {}
+
+	printf("%d", array[0]);
+	printf("%d", array[1]);
+	printf("%d", array[2]);
+	printf("%d", array[3]);
+	printf("%d", array[4]);
+
+	return 0;
+}

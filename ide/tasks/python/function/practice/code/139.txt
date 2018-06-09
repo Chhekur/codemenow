@@ -1,0 +1,5 @@
+# How to make parameterized function
+def my_fun(num):
+	print("the value is ",num)
+
+my_fun(15)

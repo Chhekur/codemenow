@@ -1,0 +1,1 @@
+List, '', Use remove method to use delete values from list

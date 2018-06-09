@@ -1,0 +1,1 @@
+Class Basics<br><br>First things first: let's create a class to work with.

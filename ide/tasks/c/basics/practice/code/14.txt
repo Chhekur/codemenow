@@ -1,0 +1,10 @@
+// How to print integer with message.
+
+#include<stdio.h>
+int main(){
+	int a = 10;
+
+	print("the value of a is %d",a);
+
+	return 0;
+}

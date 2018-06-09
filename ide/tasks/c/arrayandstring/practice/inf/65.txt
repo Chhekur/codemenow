@@ -1,0 +1,1 @@
+Array & String, "15", you have to print 15

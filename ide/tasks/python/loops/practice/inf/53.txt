@@ -1,0 +1,1 @@
+Loops, 5\n10\n15, You have to make if statement to check whether it is divisible by 5 or not.

@@ -1,0 +1,152 @@
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'tab1')" id="defaultOpen">Basics</button>
+  <button class="tablinks" onclick="openCity(event, 'tab2')">Control Flow</button>
+  <button class="tablinks" onclick="openCity(event, 'tab3')">Loops</button>
+  <button class="tablinks" onclick="openCity(event, 'tab4')" id="defaultOpen">List</button>
+  <button class="tablinks" onclick="openCity(event, 'tab5')">List Comprehension</button>
+  <button class="tablinks" onclick="openCity(event, 'tab6')">Dictionary</button>
+  <button class="tablinks" onclick="openCity(event, 'tab7')">String</button>
+  <button class="tablinks" onclick="openCity(event, 'tab8')">Functions</button>
+  <button class="tablinks" onclick="openCity(event, 'tab9')">Class & Object</button>
+</div>
+
+<div id="tab1" class="tabcontent" style="background-color: white;">
+<p>Every full C program begins inside a function called "main". A function is simply a collection of commands that do "something". The main function is always called when the program first executes. From main, we can call other functions, whether they be written by us or by others or use built-in language features. To access the standard functions that comes with your compiler, you need to include a header with the #include directive. What this does is effectively take everything in the header and paste it into your program</p>
+<h5>In it you wll learn about.</h5><br>
+<h5>Using Variables</h5>
+<p>So far you should be able to write a simple program to display information typed in by you, the programmer and to describe your program with comments. That's great, but what about interacting with your user? Fortunately, it is also possible for your program to accept input. 
+</p>
+<h5>Reading input</h5>
+<p>Using variables in C for input or output can be a bit of a hassle at first, but bear with it and it will make sense. We'll be using the scanf function to read in a value and then printf to read it back out. Let's look at the program and then pick apart exactly what's going on. You can even compile this and run it if it helps you follow along. 
+</p></div>
+
+<div id="tab2" class="tabcontent" style="background-color: white;">
+   <p>In computer science, control flow (or flow of control) is the order in which individual statements, instructions or function calls of an imperative program are executed or evaluated. The emphasis on explicit control flow distinguishes an imperative programming language from a declarative programming language.
+
+Within an imperative programming language, a control flow statement is a statement which execution results in a choice being made as to which of two or more paths to follow. For non-strict functional languages, functions and language constructs exist to achieve the same result, but they are usually not termed control flow statements.
+
+A set of statements is in turn generally structured as a block, which in addition to grouping, also defines a lexical scope.
+
+Interrupts and signals are low-level mechanisms that can alter the flow of control in a way similar to a subroutine, but usually occur as a response to some external stimulus or event (that can occur asynchronously), rather than execution of an in-line control flow statement.</p>
+<h5>In it you will learn about.</h5><br>
+<ol>
+<li><h5>if</h5></li>
+<li><h5>else</h5></li>
+<li><h5>else if</h5></li>
+<li><h5>nested if</h5></li>
+</ol>
+</div>
+
+<div id="tab3" class="tabcontent" style="background-color: white;">
+  <p>
+Programming languages provide various control structures that allow for more complicated execution paths.
+
+A loop statement allows us to execute a statement or group of statements multiple times.</p>
+<h5>In it you will learn about.</h5><br>
+<h5>While loop</h5><p>Repeats a statement or group of statements while a given condition is true. It tests the condition before executing the loop body.</p>
+<h5>For loop</h5><p>Executes a sequence of statements multiple times and abbreviates the code that manages the loop variable.</p>
+<h5>do while loop</h5><p>It is more like a while statement, except that it tests the condition at the end of the loop body.</p>
+</div>
+<div id="tab4" class="tabcontent" style="background-color: white;">
+<p>The most basic data structure in Python is the sequence. Each element of a sequence is assigned a number - its position or index. The first index is zero, the second index is one, and so forth.
+
+Python has six built-in types of sequences, but the most common ones are lists and tuples, which we would see in this tutorial.
+
+There are certain things you can do with all sequence types. These operations include indexing, slicing, adding, multiplying, and checking for membership. In addition, Python has built-in functions for finding the length of a sequence and for finding its largest and smallest elements.</p>
+<h5>Python Lists</h5><p>The list is a most versatile datatype available in Python which can be written as a list of comma-separated values (items) between square brackets. Important thing about a list is that items in a list need not be of the same type.</p>
+<h5>Accessing Values in Lists</h5><p>To access values in lists, use the square brackets for slicing along with the index or indices to obtain value available at that index.</p>
+<h5>Updating Lists</h5><p>You can update single or multiple elements of lists by giving the slice on the left-hand side of the assignment operator, and you can add to elements in a list with the append() method.</p>
+<h5>Delete List Elements</h5><p>To remove a list element, you can use either the del statement if you know exactly which element(s) you are deleting or the remove() method if you do not know.</p>
+</div>
+
+<div id="tab5" class="tabcontent" style="background-color: white;">
+<h5>What are list comprehensions?</h5>
+  <p>List comprehensions are a tool for transforming one list (any iterable actually) into another list. During this transformation, elements can be conditionally included in the new list and each element can be transformed as needed.</p>
+</div>
+
+<div id="tab6" class="tabcontent" style="background-color: white;">
+  <p>Each key is separated from its value by a colon (:), the items are separated by commas, and the whole thing is enclosed in curly braces. An empty dictionary without any items is written with just two curly braces, like this: {}.
+
+Keys are unique within a dictionary while values may not be. The values of a dictionary can be of any type, but the keys must be of an immutable data type such as strings, numbers, or tuples.
+
+<h5>Accessing Values in Dictionary:</h5>
+To access dictionary elements, you can use the familiar square brackets along with the key to obtain its value.
+<h5>Updating Dictionary</h5>
+You can update a dictionary by adding a new entry or a key-value pair, modifying an existing entry, or deleting an existing entry
+<h5>Delete Dictionary Elements</h5>
+You can either remove individual dictionary elements or clear the entire contents of a dictionary. You can also delete entire dictionary in a single operation.
+
+To explicitly remove an entire dictionary, just use the del statement.
+</p>
+</div>
+<div id="tab7" class="tabcontent" style="background-color: white;">
+  <p>Strings are amongst the most popular types in Python. We can create them simply by enclosing characters in quotes. Python treats single quotes the same as double quotes. Creating strings is as simple as assigning a value to a variable.
+  <h5>Accessing Values in Strings</h5>
+Python does not support a character type; these are treated as strings of length one, thus also considered a substring.
+
+To access substrings, use the square brackets for slicing along with the index.
+<h5>Updating Strings</h5>
+You can "update" an existing string by (re)assigning a variable to another string. The new value can be related to its previous value or to a completely different string altogether.
+<h5>Escape Characters</h5>
+Following table is a list of escape or non-printable characters that can be represented with backslash notation.
+</p>
+</div>
+<div id="tab8" class="tabcontent" style="background-color: white;">
+  <h5>Functions</h5>
+  <p>A function is a group of statements that together perform a task. Every C program has at least one function, which is main(), and all the most trivial programs can define additional functions.
+
+You can divide up your code into separate functions. How you divide up your code among different functions is up to you, but logically the division is such that each function performs a specific task.
+
+A function declaration tells the compiler about a function's name, return type, and parameters. A function definition provides the actual body of the function.
+
+The C standard library provides numerous built-in functions that your program can call. For example, strcat() to concatenate two strings, memcpy() to copy one memory location to another location, and many more functions.</p>
+<h5>In it you will learn about</h5><br>
+<h5>Function Declarations</h5><p>
+A function declaration tells the compiler about a function name and how to call the function. The actual body of the function can be defined separately.</p>
+<h5>Calling a Function</h5><p>
+While creating a C function, you give a definition of what the function has to do. To use a function, you will have to call that function to perform the defined task.
+
+When a program calls a function, the program control is transferred to the called function. A called function performs a defined task and when its return statement is executed or when its function-ending closing brace is reached, it returns the program control back to the main program.</p>
+<h5>Function Arguments</h5>
+<p>If a function is to use arguments, it must declare variables that accept the values of the arguments. These variables are called the formal parameters of the function.
+
+Formal parameters behave like other local variables inside the function and are created upon entry into the function and destroyed upon exit.</p>
+</div>
+<div id="tab9" class="tabcontent" style="background-color: white;">
+  <p>Python has been an object-oriented language since it existed. Because of this, creating and using classes and objects are downright easy. This chapter helps you become an expert in using Python's object-oriented programming support.</p>
+  <p>If you do not have any previous experience with object-oriented (OO) programming, you may want to consult an introductory course on it or at least a tutorial of some sort so that you have a grasp of the basic concepts.</p>
+  <p>However, here is small introduction of Object-Oriented Programming (OOP) to bring you at speed −</p>
+  <h5>Overview of OOP Terminology</h5>
+  <ul class="list">
+<li><p><b>Class:</b>  A user-defined prototype for an object that defines a set of attributes that characterize any object of the class. The attributes are data members (class variables and instance variables) and methods, accessed via dot notation. </p></li>
+<li><p><b>Class variable:</b> A variable that is shared by all instances of a class. Class variables are defined within a class but outside any of the class's methods. Class variables are not used as frequently as instance variables are. </p></li>
+<li><p><b>Data member:</b> A class variable or instance variable that holds data associated with a class and its objects. </p></li>
+<li><p><b>Function overloading:</b> The assignment of more than one behavior to a particular function. The operation performed varies by the types of objects or arguments involved.</p></li>
+<li><p><b>Instance variable:</b> A variable that is defined inside a method and belongs only to the current instance of a class. </p></li>
+<li><p><b>Inheritance:</b> The transfer of the characteristics of a class to other classes that are derived from it. </p></li>
+<li><p><b>Instance:</b>  An individual object of a certain class. An object obj that belongs to a class Circle, for example, is an instance of the class Circle.</p></li>
+<li><p><b>Instantiation:</b> The creation of an instance of a class. </p></li>
+<li><p><b>Method :</b> A special kind of function that is defined in a class definition.</p></li>
+<li><p><b>Object:</b> A unique instance of a data structure that's defined by its class. An object comprises both data members (class variables and instance variables) and methods. </p></li>
+<li><p><b>Operator overloading:</b> The assignment of more than one function to a particular operator.</p></li>
+</ul>
+<h5>Creating Class</h5>
+<p>The <i>class</i> statement creates a new class definition. The name of the class immediately follows the keyword <i>class</i> followed by a colon</p>
+<h5>Creating Instance Objects</h5>
+<p>To create instances of a class, you call the class using class name and pass in whatever arguments its <i>__init__</i> method accepts.</p>
+
+
+</div>
+@
+<button class="accordion" style="width: 95%;">Syllabus</button>
+<div class="panel">
+  <p style="text-align: left;">1.Basics</p>
+  <p style="text-align: left;">2.Control Flow</p>
+  <p style="text-align: left;">3.Loops</p>
+  <p style="text-align: left;">4.List</p>
+  <p style="text-align: left;">7.List Comprehension</p>
+  <p style="text-align: left;">8.Dictionary</p>
+  <p style="text-align: left;">9.String</p>
+  <p style="text-align: left;">10.Functions</p>
+  <p style="text-align: left;">11.Class & Object</p>
+</div>

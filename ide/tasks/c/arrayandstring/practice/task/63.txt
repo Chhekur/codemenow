@@ -1,0 +1,1 @@
+<li>just write down<b> 5 in []</b><b><br>Syntax<br>datatype arrayname[size];</b></li><li>write down<b> 1,2,3,4,5 in '{}'<b/></li><li>click check and continue</li>

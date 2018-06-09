@@ -1,0 +1,15 @@
+// How to calculate square
+
+#include<stdio.h>
+int main(){
+	int var1 = 15;
+	int square;
+
+	// calculate square of var1
+
+	square = 
+	
+	printf(); // print square here
+	
+	return 0;
+}

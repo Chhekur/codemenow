@@ -1,0 +1,1 @@
+<li>Calculate square of var1</li><li>Print the value of square</li>

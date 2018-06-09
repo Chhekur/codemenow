@@ -1,0 +1,6 @@
+# How to make String list
+
+
+
+for i in my_list:
+	print i

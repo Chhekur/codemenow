@@ -1,0 +1,1 @@
+Array & String, '12345', Make sure you define size of array 5 and assign values 1 to 5

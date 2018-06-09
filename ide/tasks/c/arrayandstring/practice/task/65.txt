@@ -1,0 +1,1 @@
+<li>print the value at index 2 in array</li><li>click check and continue</li>

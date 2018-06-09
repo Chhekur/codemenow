@@ -1,0 +1,1 @@
+<li>declare an array with <b>any name of size 6 and type int</b></li><li>assign 8 at index 3 in array</li><li>print the value</li><li>click check and continue</li>

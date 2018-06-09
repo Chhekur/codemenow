@@ -1,0 +1,1 @@
+<li>After line 3, add a second member variable called 'health' that contains the string ''good''.</li><li>Then, create two new Animals: 'sloth' and 'ocelot'. (Give them name 'sloth' and 'ocelot' & age '15', '16')Finally, on three separate lines, print out the 'health' of your 'hippo', 'sloth', and 'ocelot'.</li>

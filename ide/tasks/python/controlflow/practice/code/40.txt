@@ -1,0 +1,3 @@
+num = 100
+
+# check num is divisible by 5 and 7 or not

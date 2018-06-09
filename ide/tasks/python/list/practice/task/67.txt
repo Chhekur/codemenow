@@ -1,0 +1,1 @@
+<li>Print the second element of list 'cat'</li><br>Remember that index of list start from 0

@@ -1,0 +1,1 @@
+List, '[1,2,6,9,4]', Use remove method to use delete values from list

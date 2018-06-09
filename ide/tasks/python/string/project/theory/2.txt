@@ -1,0 +1,1 @@
+Addition is one of the most basic mathematical operation, it can be used in all programming languages and is most commonly used to add Integers, furthermore it can be used to add Floating point numbers of even in some cases, Strings.

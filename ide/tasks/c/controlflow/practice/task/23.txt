@@ -1,0 +1,1 @@
+<li>Now its your turn.</li><li>Create three variables viz <b>physics ,chemistry,maths</b>(float type).</li><li>Assign there value from console by scanf.</li><li>Your input must be <b>60,71,85</b>.</li>

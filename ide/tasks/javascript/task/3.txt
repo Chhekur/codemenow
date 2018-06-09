@@ -1,0 +1,1 @@
+<li>Declare a variabled named 'y'</li><li>Set the value of 'y' to 8</li><li>Return the product of the 'x' and 'y' variables</li>

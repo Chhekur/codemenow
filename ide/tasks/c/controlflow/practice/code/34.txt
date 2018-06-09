@@ -1,0 +1,22 @@
+#include<stdio.h>
+int main()
+{
+	int c=2;
+	switch(c)
+	{
+		case 1:
+		printf("I am first choice..");
+		break;
+		case 2:
+		printf("I am second choice..");
+		break;
+		case 3:
+		printf("I am third choice..");
+		break;
+		default:
+		printf("NO such choice..");
+		break;
+
+		return(0);
+	}
+}

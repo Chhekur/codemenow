@@ -1,0 +1,1 @@
+Array & String, 'true', assign find any value that present in array

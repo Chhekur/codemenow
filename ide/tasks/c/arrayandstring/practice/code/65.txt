@@ -1,0 +1,13 @@
+// print value of array through index
+
+#include<stdio.h>
+int main(){
+
+	int array[5] = {5,52,15,35,1};
+	// print the value at index 2
+
+	printf();
+	
+	return 0;
+	
+}

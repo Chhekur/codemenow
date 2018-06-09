@@ -1,0 +1,1 @@
+<li>Inside the 'Triangle' class:<br>Create a variable named 'number_of_sides' and set it equal to 3.<br>Create a function named 'check_angles'. The sum of a triangle's three angles should return True if the sum of 'self.angle1', 'self.angle2', and 'self.angle3' is equal 180, and False otherwise.</li>

@@ -1,0 +1,1 @@
+<li>Try to understand<br><b>Syntax<br><variable name> = [your elements]</b></li><br>Elements can be integer or float or string of mixture of all<li>Click check and continue</li>

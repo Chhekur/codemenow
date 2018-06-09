@@ -1,0 +1,5 @@
+# Typecast value into string
+
+var = raw_input("Enter string")
+
+print var

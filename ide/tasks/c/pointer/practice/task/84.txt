@@ -1,0 +1,1 @@
+<li>Now set the <b>age equals to 30</b>.</li><li>Do this with the help of <b>p</b>.</li><li>Dont forget to print <b>age</b>.</li>

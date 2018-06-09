@@ -1,0 +1,29 @@
+// implementing ' Nested while()'
+// let's play with numeric patterns
+
+#include<stdio.h>
+int main()
+{
+	                  // Declare variables i and j
+	                 
+	while()           // Fill in suitable condition
+	{
+		
+		while()        // Fill with another suitable condition   
+		{
+			            // Use 'printf();' statement here
+			
+			}	            
+			            // Make sure to use 'printf("\n");' for new line
+		}
+	return(0);
+	}            
+			            
+			            
+			            
+			            
+			            
+			            
+			            
+			            
+		               

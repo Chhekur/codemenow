@@ -1,0 +1,1 @@
+Print first five Odd Numbers,'1\n3\n5\n7\n9\n',Ensure you have made proper increment i.e. "i = i + 2" on line 12 

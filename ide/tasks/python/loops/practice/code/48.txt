@@ -1,0 +1,4 @@
+# Print value in reverse using for loop
+
+for i in range(5,0,-1):
+	print i

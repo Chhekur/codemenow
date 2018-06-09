@@ -1,0 +1,1 @@
+<li>Similarly type case 2 and find cube in it(c=n*n*n).</li><li>Don't forget to use break;</li>

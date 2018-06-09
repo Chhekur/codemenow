@@ -1,0 +1,1 @@
+<li>Try to understand<br>-1 is print value in reverse, third parameter of range is called step</li><li>Click check and continue</li>

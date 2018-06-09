@@ -1,0 +1,1 @@
+Perfect Number , 'Perfect', Declare variables as follow : num , p=1 , s=0 , r (all of type 'int')<br>Condition in 'while()' should be 'num>0'<br>Set r=num%10<br>Set s=s+r<br>Set p=p*r<br>Set num=num/10<br>Set condition in 'if()' to 's==p'.<br>Click Check & Continue.

@@ -1,0 +1,1 @@
+Basics, 'My name is Alex\nMy age is 35\nColour of my eyes is Blue\nMy teeth is White\nColour of my hair is Black', Replace ___ with %s or %d or %f (%s for string, %d for int, %f for float).

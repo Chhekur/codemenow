@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+	int i=1;
+	if (i>0)
+	{
+	printf("Screen In.\n");
+	if(i==1)
+	{printf("Qualified.");}
+	else
+	{printf("Conference out..");}
+	}
+	else
+	{printf("Screen Out..");}
+	return(0);
+}

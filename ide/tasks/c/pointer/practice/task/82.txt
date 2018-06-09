@@ -1,0 +1,1 @@
+<li>Now declare a double pointer <b>s</b>.</li><li>Set it equals to <b>&p</b>.</li><li>Print a using <b>s</b> (i.e.**p).</li>

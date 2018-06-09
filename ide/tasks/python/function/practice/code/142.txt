@@ -1,0 +1,4 @@
+# How to make parameterized function
+
+
+isdiv(20,3)

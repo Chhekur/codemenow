@@ -1,0 +1,1 @@
+Function,'4', make a while loop to calculate the digits

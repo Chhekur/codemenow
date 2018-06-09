@@ -1,0 +1,1 @@
+<li>Print numbers if divisible by 5 and 10 from 1 to 100 using loop</li>

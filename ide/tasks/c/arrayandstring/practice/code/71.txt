@@ -1,0 +1,12 @@
+// print array in reverse
+
+#include<stdio.h>
+int main(){
+	int a[6] = {1,2,3,4,5,6};
+	// assign i = 5
+	int i =
+	for(; i>=0; i--){
+		printf("%d", a[i]);
+	}
+	return 0;
+}

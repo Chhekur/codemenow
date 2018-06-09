@@ -1,0 +1,14 @@
+// Intro to Built-in Functions
+// Log value function 'log()'
+
+#include<stdio.h>
+#include<math.h>
+
+int main()
+{
+	int num1 = 24; 
+	float num2;                
+	num2 = log(_______);		 // Make sure to pass 'num1' as parameter
+	printf(______);          // Print u'r result here
+	return(0);
+	}

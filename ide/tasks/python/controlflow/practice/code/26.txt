@@ -1,0 +1,9 @@
+salary = 50000
+annual_salary = salary*12
+tax = 0;
+
+if annual_salary > 300000:
+	tax = annual_salary*20/100;
+else:
+	tax = annual_salary*10/100;
+# your code here

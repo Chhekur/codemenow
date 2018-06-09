@@ -1,0 +1,16 @@
+// let's get started...
+// program to print first five odd numbers
+
+#include<stdio.h>
+int main()
+{
+			                  // declare a variable 'i' and set it equal to 1
+	while()                 // fill in the suitable condition
+	{
+				               // use 'printf()' statement to print values
+		printf("\n");		          
+		                     // make proper increment
+		
+		}
+	return(0);
+	}

@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+	int a = 50, *p, **k;
+	p = &a;
+	k = &a;
+	k = &p;
+
+	printf("%u", a);
+	printf("%u", *(&a));
+	printf("%u", ***(&k));
+
+	return(0);
+}

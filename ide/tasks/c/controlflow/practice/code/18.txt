@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{//write your code here! Make sure your input is 30000.
+
+	
+
+
+	return(0);
+}

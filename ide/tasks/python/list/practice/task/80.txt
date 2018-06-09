@@ -1,0 +1,1 @@
+<li>Make a list of any name</li><li>Add element 3,9 into it</li><li>Append 5 to the list</li><li>Append 6 to the list</li><li>Append "hello" to the list</li><li>Iterate your list using for loop</li>

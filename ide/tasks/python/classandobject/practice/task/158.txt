@@ -1,0 +1,1 @@
+<li>Add a method, 'description', to your Animal class. Using two separate print statements, it should print out the 'name' and 'age' of the animal it's called on. Then, create an instance of Animal, 'hippo' (with whatever name 'hippo' and age 15), and call its description method.</li>

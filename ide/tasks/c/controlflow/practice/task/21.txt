@@ -1,0 +1,1 @@
+<li>Create a variable net_salary(float type).</li><li>Assign it to annual_salary-(minus)tax.</li><li>Print the net_salary.</li>

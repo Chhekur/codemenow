@@ -1,0 +1,1 @@
+<li>Outside the Animal class definition, create a variable named zebra and set it equal to Animal(''Jeffrey'').</li><li>Then print out zebra's name.</li>

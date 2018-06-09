@@ -1,0 +1,1 @@
+<li>Make a list of numbers from 1 to 100 if divisible by 7 using list comprehension</li><li>Print your list</li>

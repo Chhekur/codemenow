@@ -1,0 +1,6 @@
+# How to make function
+
+def my_fun():
+	print "Hello Codemenow"
+
+my_fun()

@@ -1,0 +1,20 @@
+// Implementing 'for()' 
+// Calculating Factorial
+
+#include<stdio.h>
+int main()
+{
+				                // Declare a variable num
+				                // Declare another variable fact=1
+	                         // Use 'printf()' statement for entering number
+	                         // Use 'scanf()' to take input
+	                         // Make sure u'r input is 5
+	for(___;___;___)                    // Manage condition in 'for()'
+	{
+		                      // Use appropriate statements to calculate factorial
+		
+		}
+	                         // Print u'r result here
+	return(0);
+	}
+	

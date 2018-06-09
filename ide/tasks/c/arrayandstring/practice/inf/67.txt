@@ -1,0 +1,1 @@
+Array & String, 8, you have to print the value at index 3 (and value is 8)

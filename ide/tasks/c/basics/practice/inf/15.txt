@@ -1,0 +1,1 @@
+Basics,'answer is 105', Make sure you have to write "printf("answer is %d",var);"

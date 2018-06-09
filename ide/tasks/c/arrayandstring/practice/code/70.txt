@@ -1,0 +1,26 @@
+// how to make 2D array
+
+#include<stdio.h>
+int main(){
+	// define row 2 and column 2
+	int a[][];
+
+	// initialisation of 2D array
+
+	for(int i =0; i<2;i++){
+		for(int j =0; j<2; j++){
+			// assign 5 here
+			a[i][j] = 
+		}
+	}
+
+	// print an 2D array
+
+	for(int i =0; i<2; i++){
+		for(int j =0; j<2; j++){
+			printf("%d", a[i][j]);
+		}
+		printf("\n");
+	}
+	return 0;
+}

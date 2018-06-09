@@ -1,0 +1,1 @@
+<li>Use another if to check en_marks is greater than or equals 75.</li><li>In new line print Enter 'Interview marks'.</li><li>Scan int_marks(must be 90.).</li>

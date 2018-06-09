@@ -1,0 +1,1 @@
+Basics, 240, Make sure you have to write "result = ((var/4)+50)*3;"

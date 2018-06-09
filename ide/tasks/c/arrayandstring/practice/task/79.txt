@@ -1,0 +1,1 @@
+<li>creat a string and assign <b>codemenow is best for me</b></li><li>print this string</li><li>click check and continue</li>

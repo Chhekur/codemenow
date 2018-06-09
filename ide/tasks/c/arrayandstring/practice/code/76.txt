@@ -1,0 +1,9 @@
+// how to creat string
+
+#include<stdio.h>
+int main(){
+	char str[] = "";
+	puts(str);
+
+	return 0;
+}

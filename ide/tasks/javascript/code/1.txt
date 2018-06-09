@@ -1,0 +1,14 @@
+function HelloWorld(){
+
+        //This course will be started the same way most learn languages,
+        //with the classic 'Hello World' example
+
+        //Create a variable named 'text' and set its value to 'Hello World'
+        
+
+
+        //Return the variable
+        // eg. 'return "dingo"' returns the word dingo
+        return 
+}
+HelloWorld();

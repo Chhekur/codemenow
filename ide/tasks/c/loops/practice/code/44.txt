@@ -1,0 +1,21 @@
+// Counting digits in a Number 
+
+#include<stdio.h>
+int main()
+{
+	int num ;
+	int digit_num = 0 ;
+	printf("Enter the number : ");
+	scanf("%d",&num);          // Ensure u'r input is 2408
+	
+	whlie()                    // put suitable condition 
+	{
+						            // manipulate conditions
+						
+						
+		
+		}
+	printf();                  // print u'r result here
+	return(0) ;
+	}	
+	

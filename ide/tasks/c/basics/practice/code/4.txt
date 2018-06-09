@@ -1,0 +1,11 @@
+// how to make a comment
+//single line as well as multiline
+
+#include<stdio.h>
+int main(){
+
+	int a = 10;
+	printf("%d",a);
+	return 0;
+	
+}

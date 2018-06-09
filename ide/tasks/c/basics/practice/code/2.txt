@@ -1,0 +1,12 @@
+// how to declare variables
+
+#include<stdio.h>
+int main(){
+	int a = 10;
+	float b = 1.6;
+	char c = 'b';
+	printf("%d", a);
+	printf("%f", b);
+	printf("%c", c);
+	return 0;
+}

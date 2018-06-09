@@ -1,0 +1,1 @@
+<li>Now in case 3 increase the n with 1(n=n+1).</li><li>Print n. </li><li>Similarly in case 4 decrease with 1.</li><li>print n.</li>

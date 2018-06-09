@@ -1,0 +1,12 @@
+// let's play with array
+
+#include<stdio.h>
+int main(){
+	// declare an array of size 6 and type int
+
+	// assign the value 8 at index 3 in array
+
+	// print the value at index 3
+
+	return 0;
+}

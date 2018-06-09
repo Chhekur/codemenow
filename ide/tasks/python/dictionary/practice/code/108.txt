@@ -1,0 +1,10 @@
+# How to print the value using key
+
+student = {
+	'alex' : 50,
+	'ada'  : 70,
+	'wong' : 80,
+	'leon' : 95
+}
+
+print student.items()

@@ -1,0 +1,15 @@
+// Intro to Built-in Functions
+// Power function 'pow()'
+
+#include<stdio.h>
+#include<math.h>
+
+int main()
+{
+	float num1 = 2; 
+	float num2 = 3; 
+	float result;                
+	result = pow(_______);		 // Make sure to pass 'num1' and 'num2' respectively as parameters
+	printf(______);          // Print u'r result here
+	return(0);
+	}

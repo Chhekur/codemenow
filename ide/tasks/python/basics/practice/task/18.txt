@@ -1,0 +1,1 @@
+<li>Replace ___ with <i>%s</i> on line 9</li><li>Replace ___ with <i>%d</i> on line 10</li><li>Replace ___ with <i>%s</i> on line 11</li><li>Replace ___ with <i>%s</i> on line 12</li><li>Replace ___ with <i>%s</i> on line 13</li><br><i>Note<br>%s for string<br>%d for integer<br>%f for float</i>

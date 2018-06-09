@@ -1,0 +1,1 @@
+<li>Try to understand<br>Note:<br>remove method is use to remove elements from list <list name>.remove(element you want to delete)</li><li>Click check and continue</li>

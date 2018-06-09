@@ -1,0 +1,3 @@
+# How to add element in list
+
+my_list = [2,5,4,6]

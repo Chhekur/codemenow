@@ -1,0 +1,13 @@
+// Printing a Series {1,10,100,1000} with 'for()' loop
+
+#include<stdio.h>
+int main()
+{
+	int i;
+	for(___;____;___)           // Use suitable conditions
+	{
+		printf(______);          // Ensure printing u'r result
+		printf(",");
+		}
+	return(0);
+	}

@@ -1,0 +1,1 @@
+Array & String, 'I am student', you have to write I am student in between ""

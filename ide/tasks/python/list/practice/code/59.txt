@@ -1,0 +1,6 @@
+# How to make String list
+
+animals = ["dog", "cat", "cow"]
+
+for animal in animals:
+	print animal

@@ -1,0 +1,51 @@
+// Illustrating Implementation of 'switch case' in 'do while'
+
+#include<stdio.h>
+int main()
+{
+	int num1,num2,choice;
+	do
+	{
+		clrscr();
+		printf("Enter first number : ");    // Make sure u'r input is 24
+		scanf("%d",&num1);   
+		printf("Enter second number : ");   // Make sure u'r input is 8
+		scanf("%d",&num2);
+		printf("1 Add\n2 Subtract\n3 Prodduct\n4 Division\n5 Exit\n");
+		printf("Enter u'r choice");
+		scanf("%d",&choice);
+		switch(choice)
+		{
+			case 1:
+			printf("Sum : %d",(num1+num2));
+			break;
+			case 2:
+			printf("Difference : %d",(num1-num2));
+			break;
+			case 3:
+			printf("Product : %d",(num1*num2));
+			break;
+			case 4:
+			printf("Division : %d",(num1/num2));
+			break;
+			case 5:
+			printf("Bbyee..");
+			break;
+			default:
+			printf("Oops..wrong option !!");
+			}
+		printf("Press any key to continue ? ");
+		}
+	while(choice != 5);
+	return(0);
+	}
+	
+			
+			
+			
+			
+			
+			
+			
+			
+			

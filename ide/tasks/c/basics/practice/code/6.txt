@@ -1,0 +1,20 @@
+// let's play with variables
+
+#include<stdio.h>
+int main(){
+	int var1;
+	int var2;
+	int sum;
+
+	// complete these 'scanf()' statements to take input.
+	
+	scanf(); // assign var1 equal to 10 
+	scanf(); // assign var2 equal to 5
+
+	// assign sum equal to the addition of var1 and var2
+	sum = 
+	
+	printf(); // print sum here
+	
+	return 0;
+}

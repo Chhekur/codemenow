@@ -1,0 +1,12 @@
+// Intro to Built-in Functions
+// Square_root function 'sqrt()'
+
+#include<stdio.h>
+int main()
+{
+	float num1 = 25; 
+	float num2;                 
+	num2 = sqrt(___);		 // Make sure to pass 'num1' as parameter
+	printf(______);       // Print u'r result here
+	return(0);
+	}

@@ -1,0 +1,1 @@
+<li>On line 4 create a variable <b>salary</b> of type float.</li><li>Take value of salary from console with scanf.</li><li>Make sure your input will be <b>30000</b>.</li>

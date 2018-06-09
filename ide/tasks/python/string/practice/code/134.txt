@@ -1,0 +1,5 @@
+# How to check the length of string
+
+my_string = "hello friends"
+
+print()

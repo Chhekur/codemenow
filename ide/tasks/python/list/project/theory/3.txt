@@ -1,0 +1,1 @@
+Multiplication is one of the most basic mathematical operation, it can be used in all programming languages and is most commonly used to multiply integers or floats, it cannot be used on non-number types.

@@ -1,0 +1,1 @@
+<li>Print the phrase 'Hello Codemenow'<br><b>Syntax<br>print ''your message'';</b></li>

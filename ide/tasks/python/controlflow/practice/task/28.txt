@@ -1,0 +1,1 @@
+<li>Create three variables viz <b>physics ,chemistry,maths</b>.</li><li>Assign there value from console using <i>raw_input()</i> don't forgot to typecast it into float.</li><li>Your input must be <b>60,71,85</b>.</li>

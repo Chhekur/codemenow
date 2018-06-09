@@ -1,0 +1,1 @@
+Factorial, 120, Declare a variable num.<br>Declare another variable fact=1.<br>Use "printf()" statement for entering number.<br>Use "scanf()" to take input.<br>Make sure your input is 5.<br>Fill in "for()" with condition "num>1".<br>Set "fact=fact*num"on line 14.<br>Set num=num-1 on line 15.<br>Print your result using "printf("%d",fact);" on line 17.

@@ -1,0 +1,6 @@
+# How to sort a list
+
+my_list = [1,2,6,9,4]
+
+sorted(my_list)
+print my_list

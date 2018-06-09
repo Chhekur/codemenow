@@ -1,0 +1,1 @@
+<li>Create an if statement to check if num multipled by 72 and divided by 12 is equal to 18><li> if this is true return the number 7, if not return the number 2</li>

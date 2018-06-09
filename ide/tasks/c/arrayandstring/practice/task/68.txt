@@ -1,0 +1,1 @@
+<li>assign <b>sum</b> equals to <b>arr[2]+arr[5]</b></li><li>assign <b>diff</b> equals to <b>arr[2]-arr[5]</b></li><li>assign <b>product</b> equals to <b>arr[2]*arr[5]</b></li><li>assign <b>div</b> equals to <b>arr[5]/arr[2]</b></li><li>click check and continue</li>

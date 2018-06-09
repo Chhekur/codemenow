@@ -1,0 +1,1 @@
+<li>Manage suitable conditions in 'for()'.</li><li>Ensure printing u'r result.</li><li>Click Check and Continue.</li>

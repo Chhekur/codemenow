@@ -1,0 +1,14 @@
+// take string as user input
+
+#include<stdio.h>
+int main(){
+	char str[];
+	
+	gets();
+
+	// print string here
+
+	puts();
+	
+	return 0;
+}

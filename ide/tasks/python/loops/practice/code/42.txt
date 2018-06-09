@@ -1,0 +1,4 @@
+# print values in range using for loop
+
+for __ in range(__):
+	print __

@@ -1,0 +1,1 @@
+<li>Assign a equals to any intege value</li><li>Assign b equals to any float value</li><li>Assign c equals to any String</li><li>Assign d equals to boolean expression (True or False)</li>

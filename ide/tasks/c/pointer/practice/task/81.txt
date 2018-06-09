@@ -1,0 +1,1 @@
+<li>create a pointer variable (i.e. write down <b>int *p; on line 5</b>)</li><li>assign <b>p equals to &a</b>(address of a)</li><li>print the value of a by using pointer p (i.e. <b>printf("%u", *p);</b>)</li><li>click check and continue</li>

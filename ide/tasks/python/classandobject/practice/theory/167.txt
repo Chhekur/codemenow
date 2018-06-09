@@ -1,0 +1,1 @@
+Inheritance<br><br>Finally, let's create an Equilateral class that inherits from our Triangle class. (An equilateral triangle is a triangle whose angles are all 60˚, which also means that its three sides are equal in length.)

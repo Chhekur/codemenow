@@ -1,0 +1,1 @@
+<li>Make a function with name 'concat'</li><li>Take three arguments 'str1', 'str2' and 'str3'</li><li>Return concatinate string</li>

@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+	int age =24;
+	//your code here!
+
+
+
+
+
+	return(0);
+}

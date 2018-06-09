@@ -1,0 +1,1 @@
+List, 'cat', you have to print my_list[1] 

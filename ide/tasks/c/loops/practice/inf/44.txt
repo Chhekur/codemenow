@@ -1,0 +1,1 @@
+Counting digits in a Number , 4, Ensure your input is 2408<br>"while()" must have this condition "num>0"<br>Divide num by 10 i.e "num=num/10"<br>Ensure to make increment in "digit_num" i.e "digit_num=digit_num+1"<br>Print your result i.e "digit_num"

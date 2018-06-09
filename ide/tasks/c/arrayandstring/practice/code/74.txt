@@ -1,0 +1,21 @@
+// find value in array
+
+#include<stdio.h>
+int main(){
+	
+	// creat an array here
+
+
+	int find = 
+	int i;
+	for(i =0; i<10; i++){
+		if(a[i] == find){
+			printf("true");
+			break;
+		}
+	}
+	if(i == 10){
+		printf("false");
+	}
+	return 0;
+}

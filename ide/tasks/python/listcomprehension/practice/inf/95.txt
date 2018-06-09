@@ -1,0 +1,1 @@
+List Comprehension,'[4, 16, 36, 64]', write my_list = [i**2 for i in range(10) if i%2 == 0] then print my_list

@@ -1,0 +1,10 @@
+// print array in reverse
+
+#include<stdio.h>
+int main(){
+	// creat an array here
+
+	//print array in reverse
+	
+	return 0;
+}

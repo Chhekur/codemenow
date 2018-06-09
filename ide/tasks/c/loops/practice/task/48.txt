@@ -1,0 +1,1 @@
+<li>Try to guess the result.</li><li>Click Check and Continue.</li>

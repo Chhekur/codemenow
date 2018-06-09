@@ -1,0 +1,1 @@
+<li>Make a function with name 'isdiv'</li><li>Take two parameters num1 and num2</li><li>Check num1 is divisible by num2 or not</li><li>if divisible then print 'divisible' otherwise print 'not'</li>

@@ -1,0 +1,1 @@
+Loops, 1\n2\n3\n4\n5, You have to replace __ with variable name and replace <i>range(__)</i> with <i>range(6)</i>

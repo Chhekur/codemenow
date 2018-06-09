@@ -1,0 +1,1 @@
+<li>Make a list of any name</li><li>Put 1 to 100 values into list using append method (you can use for loop to append 100 values)</li><li>Iterate list using for loop</li>

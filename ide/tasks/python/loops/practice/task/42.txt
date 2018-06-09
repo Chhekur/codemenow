@@ -1,0 +1,1 @@
+<li>Creat a variable and set it equal to 1</li><li>Replace __ with your variable name on line 2 and 3</li><li>Write down 6 in <i>renge(''here'')<i></li>

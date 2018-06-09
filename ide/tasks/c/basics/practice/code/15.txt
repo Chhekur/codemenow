@@ -1,0 +1,12 @@
+// How to print integer with message.
+
+#include<stdio.h>
+int main(){
+	int var = 105;
+
+	// print the value of var with message
+
+	printf();
+
+	return 0;
+}

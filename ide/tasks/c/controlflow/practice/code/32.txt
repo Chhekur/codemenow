@@ -1,0 +1,38 @@
+#include<stdio.h>
+int main()
+{printf("enter age ");
+	scanf("%d",&age);
+	if((age>=18)&&(age<=25))
+	{
+		printf("Enter higher secondary marks ");
+		int hi_per=65;
+		if(hi_per>=60)
+		{
+			print("Enter entrance exam marks ");
+			int en_marks=80;
+			if(en_marks>=75)
+			{
+				printf("\nEnter Interview marks\n ");
+				int int_marks=90;
+				//your code here!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+}
+return(0);
+}
+

@@ -1,0 +1,13 @@
+// Printing first five Even numbres with 'for()' loop
+
+#include<stdio.h>
+int main()
+{
+	int i;
+	for(___;____;___)           // Use suitable conditions
+	{
+		printf(______);          // Ensure printing u'r result
+		printf("\n");
+		}
+	return(0);
+	}

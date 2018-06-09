@@ -1,0 +1,6 @@
+# How to remove element from list
+
+my_list = [1,2,6,7,9,4]
+
+my_list.remove(2)
+print my_list

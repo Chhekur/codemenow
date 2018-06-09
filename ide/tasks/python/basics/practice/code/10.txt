@@ -1,0 +1,5 @@
+# print variables with message
+
+var = 50
+
+print "__", 

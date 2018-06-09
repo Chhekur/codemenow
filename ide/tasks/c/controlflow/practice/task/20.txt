@@ -1,0 +1,1 @@
+<li>If the <b>annual_salary</b> is greater than 300000  set tax equals to 20% of annual salary ,i.e.,<b>annual_salary*20/100</b>.</li><li>Else set <b>tax</b> equals to <b>10%</b>.</li>

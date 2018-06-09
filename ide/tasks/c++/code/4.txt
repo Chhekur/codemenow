@@ -1,0 +1,12 @@
+// Single line comment can be defined with 2 forward 
+// slashes as shown in these comment.
+
+/* Multiline comments can be created using a forward slash 
+and then an asterix and closed with an asterix 
+and a forward slash and can be used to comment out code*/
+
+
+function done(){
+	return ' ' 
+}
+done()

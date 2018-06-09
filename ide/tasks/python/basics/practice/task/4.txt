@@ -1,0 +1,1 @@
+<li>Write down a after the print statement (i.e. print a)</li><li>Write down b after the print statement (i.e. print b)</li><li>Write down c after the print statement (i.e. print c)</li>

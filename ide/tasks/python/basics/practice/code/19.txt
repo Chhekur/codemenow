@@ -1,0 +1,7 @@
+# print variables within the message
+
+my_name = 
+my_age = 
+
+print "My name is ___" _____
+print "My age is ___" ______

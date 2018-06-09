@@ -1,0 +1,8 @@
+# how to make a comment
+# single line as well as multiline
+
+
+print "Codemenow"
+a = 50
+
+print a

@@ -1,0 +1,1 @@
+<li>Iterate my_list from second element to fourth element (i.e. my_list[1:4:])</li>

@@ -1,0 +1,8 @@
+// you have to print Hello World
+
+#include<stdio.h>
+int main(){
+	printf();
+	return 0;
+
+}

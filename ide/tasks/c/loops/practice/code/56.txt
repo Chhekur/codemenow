@@ -1,0 +1,27 @@
+// Program to check whether a number is 'Armstrong number' or not
+
+#include<stdio.h>
+int main()
+{
+								  // Declare variable arm_num of type 'int' and set it equal to 0(ZERO)
+                          // Declare another variable rem of type 'int'
+	                       // Declare one more variable 'num1' of type 'int'
+	                       // Declare one more variable 'num2' of type 'int' and set it equal to 'num1'
+	printf("Enter number : ");   
+	scanf("%d",&num1);        // Make sure u'r input is 153
+	for(;num1>0;)        
+		{
+		rem=num1%10;
+		arm_num = arm_num + rem*rem*rem;
+		num1=num1/10;
+		}
+	if(_____)                 // Use suitable conditions
+	{
+		printf("Yes");
+		}
+	else
+	{
+		printf("No");
+	}
+	return 0;
+	}

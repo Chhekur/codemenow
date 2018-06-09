@@ -1,0 +1,1 @@
+<li>Assign var1 equal to 10 </li><li>Assign var2 equal to 5 </li><li>Assign diff equal to the differance of var1 and var2</li><li>Print variable diff</li>

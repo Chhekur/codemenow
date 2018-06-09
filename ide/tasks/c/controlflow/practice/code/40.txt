@@ -1,0 +1,35 @@
+#include<stdio.h>
+int main()
+{
+	int n;
+	n=5;
+	int choice;
+	printf("1.square \n2.cube\n3.increment by one \n4.decrement by one.\n\tEnter your choice...");
+	scanf("%d",&choice);
+	switch(choice)
+	{
+		case 1:
+		int s=n*n;
+		printf("%d",s);
+		break;
+		case 2:
+		int c=n*n*n;
+		printf("%d",c);
+		break;
+		case 3:
+		int n=n+1;
+		printf("%d",n);
+		break;
+		case 4:
+		int n=n-1;
+		printf("%d",n);
+		break;
+		//write default option here!
+
+
+
+
+
+	}
+	return(0);
+}

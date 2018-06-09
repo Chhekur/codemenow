@@ -1,0 +1,1 @@
+<li>Try to understand<br>Syntax:<br><list name> = [statements]</li><li>Click check and continue</li>

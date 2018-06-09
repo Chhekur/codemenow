@@ -1,0 +1,1 @@
+Printing pattern using 'for()', '1\n12\n123\n1234\n12345', Set condition in outer "for()" to "i=1;i<=5;i++".<br>Set condition in inner "for()" to "j=1;j<=i;j++".<br>Make sure to print your result.<br>Click Check and Continue.

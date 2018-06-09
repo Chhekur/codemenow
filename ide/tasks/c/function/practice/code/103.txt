@@ -1,0 +1,18 @@
+// Intro to User-Defined Functions
+// Sum function 
+#include<stdio.h>
+
+int mySum(int num1 , int num2)           // User-Defined function's structure
+{    
+	int sum;             
+	sum = ________;               // Calculate sum of 'num1' and 'num2'
+	return(sum);
+	}
+	
+int main()
+{	
+	int result;
+	result = mySum(__ , __);     // calling above-defined function and ensure u'r input is 24 and 8   
+	printf(______);              // print u'r result here
+	return(0);         
+	}

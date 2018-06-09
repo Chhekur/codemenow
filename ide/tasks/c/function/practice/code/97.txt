@@ -1,0 +1,14 @@
+// Intro to Built-in Functions
+// DigitCase  function 'isDigit()'
+
+#include<stdio.h>
+#include<ctype.h>
+
+int main()
+{
+	char char1 = '24';
+	int result;            
+	result = isDigit(_______);		 // Make sure to pass 'char1' as parameter
+	printf(______);                // Print u'r result here
+	return(0);
+	}

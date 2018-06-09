@@ -1,0 +1,1 @@
+<li>Enter the number</li><li>Ensure u'r input is 2408</li><li>Write suitable condition in 'while()'/li><li>Make some suitable calculations</li><li>print u'r result</li>

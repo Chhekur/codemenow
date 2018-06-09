@@ -1,0 +1,17 @@
+function addNumbers(){
+
+        //Variables in Javascript are without a type, \nhence an Int (Number) or 
+        //String (Text) can be defined with the same method as shown below
+
+        var x = 5;
+        x = x + 5;
+
+        //Create a variable named y, set its value to 7
+
+
+
+        //Add both variables, x and y and then return it
+        // eg. 'return a + b' returns the sum of a and b
+        return 
+}
+addNumbers();

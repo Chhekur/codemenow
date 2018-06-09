@@ -1,0 +1,15 @@
+// Introduction to 'while' loop
+// program to print first five natural numbers
+
+#include<stdio.h>
+int main()
+{
+
+	int i=1; // initialisation
+	while(i<=5) // this is condition
+	{
+		printf("%d\n",i);
+		i=i+1; // increment
+		}
+		return(0);
+	}

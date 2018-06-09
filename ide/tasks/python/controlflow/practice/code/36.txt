@@ -1,0 +1,9 @@
+age = raw_input("enter age ")
+	if age >= 18 and age 25:
+		printf "Enter higher secondary marks "
+		hi_per = 65
+
+		if hi_per >= 60:
+			print "Enter entrance exam marks "
+			en_marks = 80
+	        #your code here!

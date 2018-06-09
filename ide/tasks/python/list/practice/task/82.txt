@@ -1,0 +1,1 @@
+<li>Remove 7 and 9 from list using remove method</li>

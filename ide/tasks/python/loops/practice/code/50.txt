@@ -1,0 +1,4 @@
+# How to use step in range
+
+for i in range(0,20,2):
+	print i

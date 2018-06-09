@@ -1,0 +1,1 @@
+String,'Codemenow', Replace print with print(my_string[6::].capitalize())

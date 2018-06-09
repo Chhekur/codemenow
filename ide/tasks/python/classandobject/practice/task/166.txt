@@ -1,0 +1,1 @@
+<li>Create a variable named 'my_triangle' and set it equal to a new instance of your 'Triangle' class. Pass it three angles that sum to 180 (e.g. 90, 30, 60).<br>Print out 'my_triangle.number_of_sides'<br>Print out 'my_triangle.check_angles()'</li>

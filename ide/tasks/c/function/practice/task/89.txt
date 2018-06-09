@@ -1,0 +1,1 @@
+<li>Guess the result.</li><li>Make sure to pass 'num1' and 'num2' as parameters.</li><li>Make sure to print u'r result.</li><li>Click Check and Continue.</li>

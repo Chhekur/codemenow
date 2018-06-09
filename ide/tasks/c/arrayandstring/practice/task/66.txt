@@ -1,0 +1,1 @@
+<li>write down<b> 10,10,20,15,3 </b>in user input box and <b>press enter when you write every value in user input(like input 10 then press enter and so no...)</b><li>click check and continue</li>

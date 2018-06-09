@@ -1,0 +1,14 @@
+// how to initialise variables
+
+#include<stdio.h>
+int main(){
+    // declare a variable of type 'int' and set it equal to 5
+
+    // declare a variable of type 'float' and set it equal to 10.6
+
+    // print both the values
+    printf();
+    printf();
+    return 0;
+
+}

@@ -1,0 +1,22 @@
+#include<stdio.h>
+int main()
+{
+	float salary=30000;
+	float annual_salary=salary*12;
+	float tax;
+	if(annual_salary>300000)
+	{
+		tax=annual_salary*20/100;
+	}
+	else
+	{
+		tax=annual_salary*10/100;
+	}
+	//write your code here!
+
+
+
+
+
+	return(0);
+}

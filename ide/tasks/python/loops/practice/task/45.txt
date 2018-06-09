@@ -1,0 +1,1 @@
+<li>Try to understand<br>syntax:<br><i>while <condition>:<br></i><li><li>Click check and continue</li>

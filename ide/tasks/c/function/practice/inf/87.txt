@@ -1,0 +1,1 @@
+ceil value function 'ceil()', 25, Make sure to pass "num1" as parameter.<br>Make sure to print your result.<br>Click Check and Continue.

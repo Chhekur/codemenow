@@ -1,0 +1,1 @@
+Class It Up<br><br>Great! Now let's add a member variable and a method to our class.

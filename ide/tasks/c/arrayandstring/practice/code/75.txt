@@ -1,0 +1,17 @@
+// introduction to string
+
+#include<stdio.h>
+int main(){
+
+	// Methods to initialise string
+
+	char string[] = "Hello World";
+	char string1[] = {'H','e','l','l','o',' ','W','o','r','l','d'};
+	
+	// Methods to print string
+
+	puts(string);
+  	printf("\n");
+	puts(string1);
+  return 0;
+}

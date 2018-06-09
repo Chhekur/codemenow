@@ -1,0 +1,1 @@
+A comment can be used in most programming language to provide more insight into the code and the methods the programmer is using. These comments have no effect on the execution of the code and are pruely for programmers to view. There are various types of comments including single line comments and multiline comments.

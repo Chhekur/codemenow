@@ -1,0 +1,1 @@
+<li>Try to understand<br>Syntax:<br>sorted(<list name>)</li><li>Click check and continue</li>

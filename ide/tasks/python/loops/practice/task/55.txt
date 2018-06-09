@@ -1,0 +1,1 @@
+<li>Print numbers if divisible by 7 or 3 from 1 to 10 using loop</li>

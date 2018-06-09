@@ -1,0 +1,1 @@
+<li>If age is between 18 and 25 print 'Enter higher secondary percentage \n'.</li><li>Scan <b>hi_per</b>(must be 65).</li><li>If <b>hi_per</b> is greater than or equals 60 print 'Enter entrance exam marks\n'.</li><li>Scan <b>en_marks</b>(must be 80).</li>

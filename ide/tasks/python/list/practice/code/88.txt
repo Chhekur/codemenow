@@ -1,0 +1,3 @@
+# How to sort a list
+
+my_list = ["orange", "apple", "mango"]

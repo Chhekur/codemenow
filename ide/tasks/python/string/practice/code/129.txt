@@ -1,0 +1,5 @@
+# How to convert string into lowercase
+
+my_string = "Hello Codemenow"
+
+print(my_string.lower())

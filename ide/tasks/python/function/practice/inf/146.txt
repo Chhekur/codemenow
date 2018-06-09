@@ -1,0 +1,1 @@
+Function,'6', Check 6 in exist in list or not using if else

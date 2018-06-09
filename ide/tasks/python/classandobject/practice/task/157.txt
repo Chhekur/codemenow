@@ -1,0 +1,1 @@
+<li>Check out the code in the editor. Note that each individual animal gets its own name and age (since they're all initialized individually), but they all have access to the member variable is_alive, since they're all members of the Animal class. Click Run to see the output!</li>

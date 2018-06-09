@@ -1,0 +1,4 @@
+# How to make function
+
+
+print(concat("Hello", "Codemenow","Users"))

@@ -1,0 +1,1 @@
+Basics, '10\n60.5\ncodemenow',Make sure you have to write "print a","print b" and "print c".

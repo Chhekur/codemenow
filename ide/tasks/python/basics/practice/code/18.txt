@@ -1,0 +1,13 @@
+# print variables within the message
+
+my_name = "Alex"
+my_age = 35
+my_eyes = "Blue"
+my_teeth = "White"
+my_hair = "Black"
+
+print "My name is ___" %(my_name)
+print "My age is ___" %(my_age)
+print "Colour of my eyes is ___" %(my_eyes)
+print "My teeth is ___" %(my_teeth)
+print "Colour of my hair is ___" %(my_hair)

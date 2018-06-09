@@ -1,0 +1,1 @@
+<li>Try to understand<br>Note:<br><list name>[starting index:end index:step]</li><li>Click check and continue</li>

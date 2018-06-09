@@ -1,0 +1,1 @@
+<li>Leave <i>raw_input statement</i> as it is.<br>because <i>raw_input</i>is by default string</li><li>Enter codemenow as input</li>

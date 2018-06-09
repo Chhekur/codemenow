@@ -1,0 +1,5 @@
+# How to add two strings
+str1 = "Hello"
+str2 = "Codemenow"
+
+print(str1+str2)

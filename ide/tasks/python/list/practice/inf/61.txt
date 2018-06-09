@@ -1,0 +1,1 @@
+List, '', you have to make list like that <i>my_list = ["str1", "str2", "str3", "str4"]</i>

@@ -1,0 +1,1 @@
+String,'wonemedoC', Replace print with print(my_string[6::-1]) 

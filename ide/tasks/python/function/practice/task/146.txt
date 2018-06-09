@@ -1,0 +1,1 @@
+<li>Make a function with name 'find'</li><li>Take 'list' as parameter</li><li>Make if and chech if 6 exist in list then print it else print not found</li>

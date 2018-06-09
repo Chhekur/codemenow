@@ -1,0 +1,1 @@
+<li>Check out the examples in the editor. See how __init__() ''boots up'' each object to expect a name and an age, then uses self.name and self.age to assign those names and ages to each object? Add a third attribute, is_hungry to __init__(), and click Run to see the results.</li>

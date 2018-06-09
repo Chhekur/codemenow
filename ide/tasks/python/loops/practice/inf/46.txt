@@ -1,0 +1,1 @@
+Loops, 4\n5\n6\n7\n8\n9, You have to make while loop like this: while <variable> < 10:

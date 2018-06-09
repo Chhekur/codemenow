@@ -1,0 +1,1 @@
+Basics, 'Answer is 50', Make sure you have to replace <i>print statement</i> with <i>print ("Answer is ", var)</i>

@@ -1,0 +1,1 @@
+<li>Declare a variable num.</li><li>Declare another variable fact=1.</li><li>Use 'printf()' statement for entering number.</li><li>Use 'scanf()' to take input.</li><li>Make sure u'r input is 5.</li><li>Manage condition in 'for()'.</li><li>Use appropriate statements within 'for()' to calculate factorial.</li><li>Finally Print u'r result.</li>

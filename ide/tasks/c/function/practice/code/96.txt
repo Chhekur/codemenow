@@ -1,0 +1,14 @@
+// Intro to Built-in Functions
+// LowerCase  function 'isLower()'
+
+#include<stdio.h>
+#include<ctype.h>
+
+int main()
+{
+	char char1 = 'K';
+	int result;            
+	result = isLower(_______);		 // Make sure to pass 'char1' as parameter
+	printf(______);                // Print u'r result here
+	return(0);
+	}

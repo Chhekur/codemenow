@@ -1,0 +1,1 @@
+<li>Declare a variabled named 'i'</li><li>Set the value of 'i' to 1</li><li>Fill proper condition in 'whlie()' loop</li><li>Print the value of i</li><li>Make proper increment</li>

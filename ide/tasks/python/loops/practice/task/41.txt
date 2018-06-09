@@ -1,0 +1,1 @@
+<li>Try to understand<br><b>Syntax<br>for <variable>in <range> or <list>:</b></li><li>Click check and continue</li>

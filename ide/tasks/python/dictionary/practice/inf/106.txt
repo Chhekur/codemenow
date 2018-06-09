@@ -1,0 +1,1 @@
+Dictionary,'95', you have to write print student['leon'] 

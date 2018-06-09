@@ -1,0 +1,1 @@
+Instantiate an Object<br><br>Let's go ahead and create an instance of our Triangle class.

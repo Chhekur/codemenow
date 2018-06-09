@@ -1,0 +1,1 @@
+<li>Replace <i>raw_input statement</i> with <b>float(raw_input(''Enter Value''))</b></li><li>Enter 60 as input</li>

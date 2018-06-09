@@ -1,0 +1,1 @@
+<li>Make a list of cube values from 1 to 10 if not divisible by 2 using list comprehension</li><li>Print your list</li>

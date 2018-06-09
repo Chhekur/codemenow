@@ -1,0 +1,1 @@
+List, 'alex\nwong\nleon\nada', Raplace my_list with <i>my_list = ["alex", "wong", "leon", "ada"]</i>

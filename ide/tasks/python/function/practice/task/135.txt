@@ -1,0 +1,1 @@
+<li>Try to understand<br>Syntax:<br>def <function name> ():<br>def keyword is use to define function</li><li>Click check and continue</li>

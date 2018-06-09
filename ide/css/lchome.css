@@ -1,0 +1,45 @@
+body {
+	overflow-y: scroll;
+}
+
+.arrow {
+    position: fixed;
+    left: 50%;
+    bottom: 6px;
+    margin-left: -15px;
+}
+
+.headerbar { 
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	z-index: 100;
+}
+
+.parralaxheader {
+	font-size: 6rem;
+
+	padding-left: 17px;
+	padding-top: 360px;
+	color: #fff;
+}
+
+blockquote {
+	border-left:#039be5 4px solid;
+}
+
+.quote p { 
+	font-size: 2rem;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+.quote footer {
+	padding-left: 10px;
+	font-size: 1rem;
+}
+
+::-webkit-scrollbar {
+	width: 0px;
+}

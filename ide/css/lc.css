@@ -1,0 +1,98 @@
+body {
+	margin-top: 60px;
+    overflow-x: hidden; 
+    overflow-y: hidden;
+    background-color: #272822;
+}
+
+.header {
+	padding: 15px;
+	color: #404040;
+}
+
+p {
+	font-weight: 500;
+	padding: 15px;
+
+}
+
+.lc_head *{
+	padding:4px;
+	padding-left: 6px;
+	border-bottom: 2px white;
+}
+
+.lc_nav {
+	height: 100%;
+	border-right: 5px solid #212121;
+	overflow: scroll;
+
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,e0e0e0+100 */
+background: rgb(255,255,255); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(224,224,224,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(224,224,224,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(255,255,255,1) 0%,rgba(224,224,224,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e0e0e0',GradientType=0 ); /* IE6-9 */
+
+}
+
+.lc_con {
+	background-color:#1c1d1a;
+	height: 100%;
+}
+
+.lc_con .CodeMirror {
+	height: 85%;
+	width:60%;
+}
+
+.toastSuccess {
+	background-color:#4caf50 ;
+}
+
+.toastFailure {
+	background-color:#c62828  ;
+}
+
+.toastHint {
+	color: #000;
+	background-color:#fff;
+}
+
+.lc_theory {
+	font-weight: 500;
+	padding: 15px;
+}
+
+.lc_task {
+	font-weight: 500;
+	padding: 15px;
+}
+
+.lc_task h5 {
+}
+
+.lc_task p {
+
+}
+
+
+::-webkit-scrollbar {
+	width: 6px;
+}
+::-webkit-scrollbar-button {
+	width: 6px;
+	height:5px;
+}
+::-webkit-scrollbar-track {
+	background:#eee;
+	border: thin solid lightgray;
+	box-shadow: 0px 0px 3px #dfdfdf inset;
+}
+::-webkit-scrollbar-thumb {
+	background:#d9d9d9;
+	border: thin solid gray;
+}
+::-webkit-scrollbar-thumb:hover {
+	background:#d9d9d9;
+}			

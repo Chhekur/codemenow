@@ -1,0 +1,1 @@
+<li>Replace ___ with any variable in for</li><li>Place list name after in ______ </li><li>Replace _____ with your variable in print statement</li>

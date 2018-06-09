@@ -1,0 +1,12 @@
+// Intro to Built-in Functions
+// Flooring function 'floor()'
+
+#include<stdio.h>
+int main()
+{
+	int num1 = 24.99; 
+	int num2;                 
+	num2 = floor(___);		 // Make sure to pass 'num1' as parameter
+	printf("%d",num2);       // Print u'r result here
+	return(0);
+	}

@@ -1,0 +1,1 @@
+<li>Singles line comments can be defined using '#'</li><li>Multiline comments can be opened with ''' and closed with '''</li><li>Play around with comments until you are comfortable and then click check and continue</li>

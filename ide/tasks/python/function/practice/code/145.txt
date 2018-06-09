@@ -1,0 +1,4 @@
+# How to make parameterized function
+
+
+print(sort([51,2,6,7,9,20]))

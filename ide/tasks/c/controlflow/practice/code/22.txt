@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{
+	int age=23;
+	if(age<=10)
+	{
+	printf("kid..");
+	}
+	else if(age<=18)
+	{
+	printf("Teenage..");
+	}	
+	else
+	{
+	printf("Adult..");
+	}
+	return(0);
+}

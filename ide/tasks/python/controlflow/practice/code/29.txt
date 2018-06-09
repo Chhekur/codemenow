@@ -1,0 +1,5 @@
+physics = 60
+chemistry = 71
+maths = 85
+
+# your code here

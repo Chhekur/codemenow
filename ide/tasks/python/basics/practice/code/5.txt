@@ -1,0 +1,5 @@
+# how to take input using raw_input()
+
+var = raw_input("")
+
+print var

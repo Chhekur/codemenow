@@ -1,0 +1,1 @@
+A Methodical Approach<br><br>When a class has its own functions, those functions are called methods. You've already seen one such method: __init__(). But you can also define your own methods!

@@ -1,0 +1,23 @@
+#include<stdio.h>
+int main()
+{
+	float salary=30000;
+	float annual_salary;
+	annual_salary = salary*12;
+	printf("%f",annual_salary);
+	float tax;
+	//write your code here!
+
+
+
+
+
+
+
+
+
+
+
+	return(0);
+	
+}

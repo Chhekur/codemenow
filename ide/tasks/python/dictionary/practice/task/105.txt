@@ -1,0 +1,1 @@
+<li>Try to understand<br>Syntax:<br>print <dictionary name>['key']</li><li>Click check and cotinue</li>

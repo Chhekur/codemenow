@@ -1,0 +1,23 @@
+// Printing a pattern using 'for()' loop
+/* Pattern ----- 54321
+				 5432
+				 543
+				 54
+				 5
+
+		*/
+				
+#include<stdio.h>
+int main()
+{
+	int i , j;
+	for(___;____;___)              // Use suitable conditions
+	{
+		for(___;____;___)           // Use suitable conditions
+		{
+			printf(______);          // Ensure printing u'r result
+			}
+		printf("\n");
+		}
+	return(0);
+	}

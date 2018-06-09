@@ -1,0 +1,1 @@
+<li>enter 10 as input in input box.</li><li>click check and continue</li>

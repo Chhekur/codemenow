@@ -1,0 +1,1 @@
+<li>Let's do two things in the editor:</li><li>Pass __init__() a second parameter, name.</li><li>In the body of __init__(), let the function know that name refers to the created object's name by typing self.name = name. (This will become crystal clear in the next section.)</li>

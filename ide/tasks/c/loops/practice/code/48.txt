@@ -1,0 +1,14 @@
+// Introduction to 'do while()'
+
+#include<stdio.h>
+int main()
+{
+	int i=1;         // initialisation
+	do
+	{
+		printf("%d",i);
+		i=i+1;        // increment
+		}
+	while(i<=5);     // condition
+	return(0);
+	}

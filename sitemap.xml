@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://codemenow.com/</loc>
+  <changefreq>always</changefreq>
+  <priority>1</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/login</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/signup</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/course</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/support</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/about</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/help</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/termsandcondition</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/tech_support</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/dashboard</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/profile</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/setting</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/course/1</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/course/2</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/course/3</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/course/4</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/course/5</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/course/6</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/course/7</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/course/8</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/course/9</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://codemenow.com/course/10</loc>
+  <changefreq>always</changefreq>
+  <priority>0.5</priority>
+</url>
+</urlset>

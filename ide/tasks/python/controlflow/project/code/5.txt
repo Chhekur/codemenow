@@ -1,0 +1,22 @@
+function ifStatements(num){
+
+        //If statements in Javascript can be defined using if()
+        //Javascript has multiple operators that can be used inside 
+        //the statement these include:
+        
+        /*
+         	== 			Equal To
+            !=			Not Equal To
+            >			Greater Than
+        	>=			Greater Than or Equal To
+        	<			Less Than
+          	<=			Less Than or Equal To
+        */
+
+        // eg. if(2 > 1) will return the boolean value True, as the statement is true
+        // eg. if(2 == 1) will return the boolean value False, as the statement is false
+
+        //Create an if statement to check if num multipled by 72 and divided by 12 is equal to 18
+
+}
+ifStatements(3);

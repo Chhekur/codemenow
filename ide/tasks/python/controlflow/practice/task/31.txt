@@ -1,0 +1,1 @@
+<li>Make if statement <i>if the percentage is less than 33 print 'Fail'.</li><li>elif less than 50 print 'Pass with D grade..'</li><li>elif less than 60 print 'Pass with C grade..'</li><li>elif less than 75 print 'Pass with B grade..'</li><li>else print 'Pass with A grade..'</li>

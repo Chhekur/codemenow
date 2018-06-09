@@ -1,0 +1,1 @@
+LowerCase function 'isLower()', 0, Make sure to pass "char" as parameter.<br>Make sure to print your result.<br>Also , your 'printf()' statement contains '%d'.<br>Click Check and Continue.

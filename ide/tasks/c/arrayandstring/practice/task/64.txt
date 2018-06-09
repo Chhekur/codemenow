@@ -1,0 +1,1 @@
+<li>set <b>array[0]</b> equal to <b>5</b></li><li>set <b>array[1]</b> equal to <b>10</b></li><li>set <b>array[2]</b> equal to <b>15</b></li><li>set <b>array[3]</b> equal to <b>20</b></li><li>set <b>array[4]</b> equal to <b>25</b></li><li>click check and continue</li>

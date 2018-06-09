@@ -1,0 +1,1 @@
+<li>Check out the code in the editor to the right. We've defined our own class, Fruit, and created a lemon instance.When you're ready, click Run to get started creating classes and objects of your own.</li>

@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+	int a = 200;
+	int p=&a;
+	//write your code here!
+
+
+
+	
+	return(0);
+}

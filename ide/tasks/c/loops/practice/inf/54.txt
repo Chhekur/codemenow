@@ -1,0 +1,1 @@
+Printing Series {2,4,8,14,22,32} using 'for()', 2,4,8,14,22,32, Set condition in 'for()' to 'i=2;i<=32;i=i+c*2'.<br>Make sure to print your result.<br>Click Check and Continue.

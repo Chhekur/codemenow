@@ -1,0 +1,1 @@
+Basics, 16, Make sure you have to replace <i>print statement</i> with <i>print var**2</i>.

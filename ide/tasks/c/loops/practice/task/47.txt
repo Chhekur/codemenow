@@ -1,0 +1,1 @@
+<li>Declare variables i and j.</li><li>Initialise 'i'.</li><li>Complete outer 'while()' using suitable condition.</li><li>Initialise 'j'.</li><li>Complete inner 'while()' using suitable condition</li><li>Complete 'printf()' statement within inner 'while()'.</li><<li>Make sure to use 'printf(''\n'')' for new line on line 17.</li><li>Click Check and Continue.</li>

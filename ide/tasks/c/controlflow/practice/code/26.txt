@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{
+	float physics,chemistry,maths;
+	physics=60;
+	chemistry=71;
+	maths=85;
+	float total=physics+chemistry+maths;
+	float per=total/3;
+	//Place your condition here!
+
+
+
+
+
+
+	return(0);
+}

@@ -1,0 +1,1 @@
+<li>Create a class, 'Triangle'. Its __init__() method should take self, 'angle1', 'angle2', and 'angle3' as arguments. Make sure to set these appropriately in the body of the __init__() method (see the Hint for more).</li>

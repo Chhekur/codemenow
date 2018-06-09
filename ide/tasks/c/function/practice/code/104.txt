@@ -1,0 +1,25 @@
+// factorial using function
+
+#include<stdio.h>
+
+double myFactorial(double num)       // Complete function structure
+{ 
+	double fact=1;
+	while(_____)                    // Use suitable condition
+	{
+                                   // Make suitable calculations          		     
+		 
+		}
+	return(fact);
+	}
+	
+int main()                         
+{
+	double num;
+	double result;
+	printf("Enter u'r number : ");       // Ensure u'r input is 5
+	scanf("%lf",&num);
+	result = myFactorial(fact);          // Call above function 'myFactorial()' here
+	printf(_______);                     // Print u'r factorial here
+	return(0);
+	}

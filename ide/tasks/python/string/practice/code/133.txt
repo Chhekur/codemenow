@@ -1,0 +1,5 @@
+# How to check the length of string
+
+my_string = "hello codemenow"
+
+print(len(my_string))

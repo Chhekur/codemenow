@@ -1,0 +1,1 @@
+<li>Create a variable <b>salary</b></li><li>Take value of salary from console using <i>raw_input()</i> and don't forget to typecase it into <i>float</i></li><li>Make sure your input is <b>50000</b>.</li>

@@ -1,0 +1,1 @@
+<li>Try to understand<br>Note:<br>del method is use to delete elements from list using index<br>Syntax:<br>del(<list name>[index])</li><li>Click check and continue</li>

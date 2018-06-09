@@ -1,0 +1,4 @@
+# How to delete element from list
+
+my_list = [1,2,6,"hello",9,4]
+

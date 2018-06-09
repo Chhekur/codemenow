@@ -1,0 +1,1 @@
+<li>Check out the code in the editor. We've defined a class, 'Customer', as well as a 'ReturningCustomer' class that inherits from Customer. Note that we don't define the display_cart method in the body of 'ReturningCustomer', but it will still have access to that method via inheritance. Click Run to see for yourself!</li>

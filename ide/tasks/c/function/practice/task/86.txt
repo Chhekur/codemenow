@@ -1,0 +1,1 @@
+<li>Guess the result.</li><li>Make sure to pass 'num1' as parameter</li><li>Click Check and Continue.</li>

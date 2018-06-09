@@ -1,0 +1,1 @@
+<li>Creat a variable and set it equal to 0</li><li>Make a for loop and take it <i>range 5 to 11</i> (i.e. range(5,10))<li>

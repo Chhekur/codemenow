@@ -1,0 +1,1 @@
+<li>Make a function with name 'cal'</li><li>Take 'num' as parameter</li><li>Count the digits of 'num'</li><li>Return the digits</li>

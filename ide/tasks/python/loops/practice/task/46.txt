@@ -1,0 +1,1 @@
+<li>Creat a variable and set it equal to 4<br>syntax:<br><i>while <condition>:<br></i><li><li>Make a while loop and print value upto 10</li>

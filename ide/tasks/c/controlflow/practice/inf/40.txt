@@ -1,0 +1,1 @@
+Switch case,125,It seems you haven't print cube of number.
