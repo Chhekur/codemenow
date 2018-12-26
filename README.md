@@ -1,3 +1,5 @@
+<img src="https://github.com/Chhekur/codemenow/blob/master/assets/logo.png" width="30%">
+
 # codemenow is an online coding platform like Codecademy
 
 In order to use this project, You have to follow some steps.
